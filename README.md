@@ -2,7 +2,7 @@
 Chegando na Irlanda
 ========================================================================================================================
 
-Por [Adilson Ribeiro]((https://www.linkedin.com/in/adilsongvribeiro))
+Por [Adilson Ribeiro](https://www.linkedin.com/in/adilsongvribeiro)
 
 Introdução
 ------------------------------------------------------------------------------------------------------
