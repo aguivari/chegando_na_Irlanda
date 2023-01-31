@@ -35,7 +35,7 @@ Antes de Vir
 
 Antes de partir do Brasil para a Irlanda, diversas atividades são importantes para garantir chegada e estadia sem stress. Algumas delas dizem respeito à situação fiscal e legal no Brasil, enquanto outras dizem respeito à chegada e primeiros passos na Irlanda.
 
-### Entender diferenças entre Brasil e Irlanda\[[editar](/w/index.php?title=Monolitico&action=edit&section=4 "Editar seção: Entender diferenças entre Brasil e Irlanda")\]
+### Entender diferenças entre Brasil e Irlanda
 
 Há diversas diferenças entre os sistema legal, tributário, de saúde, de trânsito, etc.
 
