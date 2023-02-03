@@ -13,22 +13,21 @@ Se você pretende levar pets para a Irlanda, o prazo é apertado e requer toda u
 
 Uma versão curta e grossa desse FAQ seria:
 
-1.  Entenda as semelhanças e as diferenças entre Brasil e Irlanda
-2.  Verifique o que precisa ser feito ainda antes de sair do Brasil
-3.  Verifique o que precisa ser feito logo após chegar na Irlanda
-4.  Verifique o que pode ser feito com calma depois da chegada
+1. Entenda as semelhanças e as diferenças entre Brasil e Irlanda
+2. Verifique o que precisa ser feito ainda antes de sair do Brasil
+3. Verifique o que precisa ser feito logo após chegar na Irlanda
+4. Verifique o que pode ser feito com calma depois da chegada
 
 Este texto é um "Work in Progress" - estará em construção permanentemente, já que regras mudam eventualmente e outros tópicos podem entrar ou sair.
 
 Ressalvas:
 
-*   Não trate nenhuma parte deste texto como verdade, sempre consulte fontes oficiais para ter a informação mais correta/atualizada;
-*   Na medida do possível todas as seções terão links para sites oficiais tratando de cada assunto abordado;
-*   Será tentado ser o mais preciso e correto quanto possível, no entanto erros ou imprecisões estarão presentes eventualmente;
-*   Não use este conteúdo como conselho sobre imigração ou sobre práticas fiscais.
+* Não trate nenhuma parte deste texto como verdade, sempre consulte fontes oficiais para ter a informação mais correta/atualizada;
+* Na medida do possível todas as seções terão links para sites oficiais tratando de cada assunto abordado;
+* Será tentado ser o mais preciso e correto quanto possível, no entanto erros ou imprecisões estarão presentes eventualmente;
+* Não use este conteúdo como conselho sobre imigração ou sobre práticas fiscais.
 
 Caso tenha alguma sugestão ou crítica, envie e-mail para [chegandonairlanda@gmail.com](mailto:chegandonairlanda@gmail.com)
-
 
 Índice
 ------------------------------------------------------------------------------------------------------
