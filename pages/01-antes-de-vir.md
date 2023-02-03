@@ -2,7 +2,7 @@
 
 Antes de partir do Brasil para a Irlanda, diversas atividades são importantes para garantir chegada e estadia sem stress. Algumas delas dizem respeito à situação fiscal e legal no Brasil, enquanto outras dizem respeito à chegada e primeiros passos na Irlanda.
 
-### Entender diferenças entre Brasil e Irlanda
+## Entender diferenças entre Brasil e Irlanda
 
 Há diversas diferenças entre os sistema legal, tributário, de saúde, de trânsito, etc.
 
@@ -20,7 +20,7 @@ De forma similar, não há acordos para evitar bi-tributação de renda, então 
 
 [http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=77307#1661237](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=77307#1661237)
 
-### Procurações no Brasil
+## Procurações no Brasil
 
 É muito importante deixar no Brasil procurações públicas de propósito geral ou específico, para que alguém de sua confiança possa resolver coisas na sua ausência, desde negociar imóveis ou veículos, até ir aos bancos onde tem conta para fechar conta ou modificar parâmetros.
 
@@ -28,13 +28,13 @@ Os bancos e os DETRAN, de forma geral, exigem procurações específicas para um
 
 Estas procurações são usualmente feitas em Cartório, onde o procurador deve ser identificado. Caso seja casado, é importante fazer para si e para seu cônjuge.
 
-### Certificado Digital
+## Certificado Digital
 
 Da mesma forma que as procurações, é interessante dispor de um certificado digital (e-CPF) em seu nome (e outro em nome de seu cônjuge, caso seja casado), pois diversos tipos de procedimento podem ser assinados digitalmente usando um certificado digital.
 
 Certificados A1 valem por 1 ano e são eletrônicos (arquivos PFX/PEM), enquanto certificados A3 valem por 3 anos e são armazenados em tokens criptográficos.
 
-### Documentação para seguro-saúde na Irlanda
+## Documentação para seguro-saúde na Irlanda
 
 Na Irlanda há um aumento no custo de seguros-saúde de 2% por ano de idade a partir de 34 anos caso a pessoa não tenha seguro-saúde de forma contínua desde maio de 2015. Para fugir desse custo extra, deve ser demonstrado que a pessoa não morava na Irlanda em Maio de 2015.
 
@@ -50,11 +50,11 @@ Especialmente importante é a questão 13 no link acima:
 
 \- If you purchase private health insurance within 9 months of becoming resident in Ireland you will not have to pay a Lifetime Community Rating loading on your premium. If you are 35 or older and you do not purchase private health insurance within 9 months of moving to Ireland, a loading of 2% of the gross premium for every year over the age of 34 that you have attained will be applied to your premium.
 
-### Prontuário do Condutor/DETRAN
+## Prontuário do Condutor/DETRAN
 
 Caso tenha carteira de motorista no Brasil, e queira usar seu tempo de habilitação Brasileira no processo de obtenção de carteira de motorista na Irlanda, providencie o Prontuário do Condutor (ou nome similar) diretamente com o DETRAN do seu estado, pois em alguns casos essa informação só é fornecida presencialmente e diretamente ao interessado, ou através de procuração pública de propósito específico, então o mais simples é obter esse documento antes de vir.
 
-### Casamento
+## Casamento
 
 Caso esteja noivo(a), namorando ou em união estável, avalie casar ou converter a união estável em casamento, já que a Irlanda requer uma burocracia adicional para reconhecimento da união estável e autorização de residência para o cônjuge.
 
@@ -68,17 +68,17 @@ Há um documento com perguntas e respostas sobre o residência e autorização d
 
 Para o caso de um dos parceiros ser detentor de Work permit do tipo General Employment, esse esquema não se aplica.
 
-### Traduções Documentos Pessoais
+## Traduções Documentos Pessoais
 
 Providencie traduções juramentadas de certidões de nascimento e casamento, caso necessário, pois serão utilizadas para o PPS e GNIB.
 
-### Diplomas
+## Diplomas
 
 Caso tenha intenção de fazer Graduação ou pós-graduação na Irlanda, poderão ser necessárias as traduções do Histórico e diploma de segundo grau ou Histórico e diploma de Graduação ou pós-graduações já concluídas.
 
 Em alguns casos (aproveitamento de disciplinas, por exemplo), pode ser necessária também a tradução do conjunto de ementas das matérias cursadas.
 
-### Agendamento IRP/GNIB
+## Agendamento IRP/GNIB
 
 **Atencão: Por causa da pandemia do COVID-19, vários procedimentos foram alterados.**  
 **Verificar no site do INIS como está sendo feito o procedimento de registro, pois estão sendo mudados com frequência.**
@@ -97,13 +97,13 @@ Para residentes em outras cidades, o processo é ligeiramente diferente, mas igu
 
 [https://burghquayregistrationoffice.inis.gov.ie/](https://burghquayregistrationoffice.inis.gov.ie/) [https://gnibirpvisa.ie/App](https://gnibirpvisa.ie/App)
 
-### Conta no MyGovID
+## Conta no MyGovID
 
 Diversos órgãos do governo Irlandês usam a conta MyGovID como método de login unificado. Acesse o site e crie uma conta MyGovID básica antes mesmo de vir para a Irlanda, para que já possa interagir com alguns setores do governo, como por exemplo para marcar o agendamento do PPS.
 
 [https://www.mygovid.ie/en-IE/Account/Register](https://www.mygovid.ie/en-IE/Account/Register)
 
-### Agendamento PPS
+## Agendamento PPS
 
 **Atenção: Devido à pandemia do COVID-19, o atendimento ao PPS está sendo feito online. Favor consultar o site do Welfare para ver a situação atual no momento da sua vinda:**
 
@@ -113,7 +113,7 @@ O PPS é equivalente ao CPF brasileiro ou o SSN americano ou o SIN/NIS canadense
 
 [https://www.mywelfare.ie/Appointments/Book?refresh=true](https://www.mywelfare.ie/Appointments/Book?refresh=true)
 
-### Abertura de Conta em euros
+## Abertura de Conta em euros
 
 É importante, também, ter uma conta em Euros para já ter recursos em moeda local quando chegar, e para evitar vir com papel moeda, que precisa ser declarado a partir de certo limite na saída do Brasil (acima do equivalente a R$ 10 mil) e entrada na Europa (acima do equivalente em 10 mil euros) ou cartões de crédito ou pré-pagos que pagam IOF de 6.38% e uma taxa de câmbio normalmente desfavorável.
 
@@ -127,7 +127,7 @@ Há ainda a possibilidade de tentar abrir a conta direto num banco convencional 
 
 [https://personalbanking.bankofireland.com/bank/coming-to-ireland/](https://personalbanking.bankofireland.com/bank/coming-to-ireland/)  
 
-### Autorização de viagem de menor ao exterior
+## Autorização de viagem de menor ao exterior
 
 Caso esteja vindo com filho(s), mas sem um dos genitores, é necessário que o genitor ausente autorize expressamente o menor a sair do país e fixar residência na Irlanda.  
 
@@ -143,7 +143,7 @@ Caso o vôo seja composto de múltiplos bilhetes para cada trecho, verificaçõe
 
 [http://www.inis.gov.ie/en/inis/pages/travel-with-children](http://www.inis.gov.ie/en/inis/pages/travel-with-children)
 
-### Providenciando acomodação temporária/permanente
+## Providenciando acomodação temporária/permanente
 
 A parte mais complicada de Dublin é achar onde ficar e morar - **Tudo é caro**.  
 
@@ -161,7 +161,7 @@ Há uma dificuldade extra caso venha com animais de estimação, pois muitos _la
 
 Há também relatos de rejeição à casais com crianças pequenas - supostamente por uma dificuldade maior de despejar casais com filhos.
 
-### Comprando a passagem aérea
+## Comprando a passagem aérea
 
 Quanto maior a antecedência da compra, usualmente melhores os preços.
 
@@ -175,12 +175,12 @@ A TAP tem voos partindo - entre outras cidades - de Fortaleza, Natal, Recife, Sa
 
 Também em algumas cidades estão disponíveis voos das seguintes companhias:
 
-*   AirEuropa, com conexão em Madri;
-*   Condor, com conexão em Frankfurt;
-*   AirFrance/Joon, com conexão em Paris;
-*   KLM, com conexão em Amsterdã
-*   British Airwayscom conexão em Londres;
-*   Transportes Aéreos Cabo Verde, com conexões em Cabo verde e destinos para diversas cidades da Europa.
+* AirEuropa, com conexão em Madri;
+* Condor, com conexão em Frankfurt;
+* AirFrance/Joon, com conexão em Paris;
+* KLM, com conexão em Amsterdã
+* British Airwayscom conexão em Londres;
+* Transportes Aéreos Cabo Verde, com conexões em Cabo verde e destinos para diversas cidades da Europa.
 
 entre outras companhia não citadas.
 
@@ -194,7 +194,7 @@ Caso seja um bilhete único Brasil-Dublin, a conexão no ponto intermediário us
 
 Também convém lembrar ao comprar dois bilhetes separados de deixar uma boa sobra de tempo para a conexão, pois nesse caso você será o responsável em caso de perda de conexão por causa de atrasos no vôo chegando do Brasil.
 
-### Organizar traslado de animais de estimação
+## Organizar traslado de animais de estimação
 
 Caso tenha animais domésticos que pretende trazer para a Irlanda, comece o mais cedo possível a se inteirar sobre o assunto.
 
@@ -208,7 +208,7 @@ Convém lembrar que ter animais de estimação usualmente dificulta fechar o alu
 
 Um relato longo e mais completo do procedimento para trazer animais de estimação pode ser encontrado no tópico [Trazendo Animais de Estimação](30-trazendo-animais-de-estimacao.md)
 
-### Seguro Viagem
+## Seguro Viagem
 
 Antes de vir para a Irlanda é importante se certificar que terá cobertura médica/hospitalar pública ou privada.
 
@@ -216,7 +216,7 @@ Caso não tenha, ou leve algum tempo até iniciar a cobertura, é importante con
 
 [https://www.citizensinformation.ie/en/health/health\_system/entitlement\_to\_public\_health\_services.html](https://www.citizensinformation.ie/en/health/health_system/entitlement_to_public_health_services.html)
 
-### Fuso horário
+## Fuso horário
 
 A Irlanda usa GMT+1 como fuso horário padrão, denominado IST - Irish Standard Time. Durante o inverno os relógios são atrasados uma hora para GMT.
 
@@ -228,7 +228,7 @@ A depender da época do ano e da região do Brasil, podemos ter de duas a seis h
 
 [https://en.m.wikipedia.org/wiki/Time\_in\_Brazil](https://en.m.wikipedia.org/wiki/Time_in_Brazil)
 
-### Feriados na Irlanda
+## Feriados na Irlanda
 
 A Irlanda tem 9 feriados definidos. Os feriados usualmente caem nas segundas feiras.
 
@@ -248,7 +248,7 @@ Apesar da Irlanda ser um país de maioria católica, a Sexta-feira santa/da Paix
 
 [https://www.workplacerelations.ie/en/publications\_forms/owt\_guide\_holidays\_public\_holidays.pdf](https://www.workplacerelations.ie/en/publications_forms/owt_guide_holidays_public_holidays.pdf)
 
-### Direito à Férias
+## Direito à Férias
 
 Na Irlanda as férias normalmente são contadas em dias úteis. A legislação prevê um mínimo de 20 dias de férias. O contrato de trabalho pode dar direito a uma quantidade superior de dias de férias.
 
@@ -256,7 +256,7 @@ Na Irlanda as férias normalmente são contadas em dias úteis. A legislação p
 
 [https://www.workplacerelations.ie/en/publications\_forms/owt\_guide\_holidays\_public\_holidays.pdf](https://www.workplacerelations.ie/en/publications_forms/owt_guide_holidays_public_holidays.pdf)
 
-### Mantende numero de telefone do Brasil
+## Mantende numero de telefone do Brasil
 
 Pode valer a pena trazer o chip brasileiro para uso aqui, convertendo o numero para pre-pago se necessário.
 
