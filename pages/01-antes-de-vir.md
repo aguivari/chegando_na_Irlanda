@@ -1,5 +1,4 @@
-Antes de Vir
-----------------------------------------------------------------------------------------------------------
+# Antes de Vir
 
 Antes de partir do Brasil para a Irlanda, diversas atividades são importantes para garantir chegada e estadia sem stress. Algumas delas dizem respeito à situação fiscal e legal no Brasil, enquanto outras dizem respeito à chegada e primeiros passos na Irlanda.
 
@@ -15,7 +14,6 @@ Também haverá carência a partir do momento que começar a trabalhar para qual
 
 De forma similar, não há acordos para evitar bi-tributação de renda, então caso ainda mantenha alguma fonte de renda no Brasil (cota de empresa, investimentos, imóveis alugados, etc) será tributado no Brasil e também poderá ser tributado na Irlanda.
 
-  
 [http://receita.economia.gov.br/interface/cidadao/irpf/2019/perguntao/perguntas-e-respostas-irpf-2019.pdf](http://receita.economia.gov.br/interface/cidadao/irpf/2019/perguntao/perguntas-e-respostas-irpf-2019.pdf) (pergunta 117, pagina 61)
 
 [http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=16002&visao=anotado](http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=16002&visao=anotado)
@@ -129,8 +127,6 @@ Há ainda a possibilidade de tentar abrir a conta direto num banco convencional 
 
 [https://personalbanking.bankofireland.com/bank/coming-to-ireland/](https://personalbanking.bankofireland.com/bank/coming-to-ireland/)  
 
-  
-
 ### Autorização de viagem de menor ao exterior
 
 Caso esteja vindo com filho(s), mas sem um dos genitores, é necessário que o genitor ausente autorize expressamente o menor a sair do país e fixar residência na Irlanda.  
@@ -210,7 +206,7 @@ Os procedimentos durante a viagem também tem de ser verificados com as companhi
 
 Convém lembrar que ter animais de estimação usualmente dificulta fechar o aluguel de um imóvel, pois os landlords não costumam ser simpáticos aos inquilinos com pets.
 
-Um relato longo e mais completo do procedimento para trazer animais de estimação pode ser encontrado no tópico [Trazendo Animais de Estimação](#Trazendo-Animais-de-Estimação)
+Um relato longo e mais completo do procedimento para trazer animais de estimação pode ser encontrado no tópico [Trazendo Animais de Estimação](30-trazendo-animais-de-estimacao.md)
 
 ### Seguro Viagem
 
@@ -236,13 +232,13 @@ A depender da época do ano e da região do Brasil, podemos ter de duas a seis h
 
 A Irlanda tem 9 feriados definidos. Os feriados usualmente caem nas segundas feiras.
 
-*   Ano Novo (1 de Janeiro)
-*   Dia de São Patrício (17 de Março)
-*   Segunda de Páscoa
-*   Primeira segunda-feira de Maio, Junho e Agosto
-*   Última segunda de Outubro
-*   Natal (25 de Dezembro)
-*   Dia de Santo Estêvão (26 de dezembro)
+* Ano Novo (1 de Janeiro)
+* Dia de São Patrício (17 de Março)
+* Segunda de Páscoa
+* Primeira segunda-feira de Maio, Junho e Agosto
+* Última segunda de Outubro
+* Natal (25 de Dezembro)
+* Dia de Santo Estêvão (26 de dezembro)
 
 Apesar da Irlanda ser um país de maioria católica, a Sexta-feira santa/da Paixão não é feriado. O feriado é comemorado na segunda-feira seguinte. Muitas empresas e a maioria das escolas tem recesso tanto na sexta quanto na segunda.
 
