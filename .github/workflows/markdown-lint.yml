@@ -32,19 +32,24 @@ jobs:
       uses: actions/github-script@v6.4.0
       with:
         script: |
-          const lintErrors = context.run.stderr || '';
+          const lintErrors = context.steps.lint.outputs.error || '';
           const pullRequestNumber = github.event.number;
-          const commentBody = `
-          ## Lint Errors
-          ${lintErrors}
+          let commentBody = `
+          ## Markdown Lint Results
           `;
+          if (lintErrors) {
+            commentBody += `
+            ## Lint Errors
+            ${lintErrors}
+            `;
+          }
           const response = await github.pulls.createReview({
             owner: github.repository.owner.login,
             repo: github.repository.name,
             pull_number: pullRequestNumber,
             body: commentBody,
             event: "COMMENT"
-          });
+          }); 
           console.log(response.data);
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
