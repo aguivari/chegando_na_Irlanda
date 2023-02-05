@@ -1,6 +1,6 @@
 # Trazendo animais de estimação
 
-**Contribuído por Leandro Azeredo**
+Contribuído por Leandro Azeredo
 
 Levar animais de estimação será um processo trabalhoso e metódico, porém, nenhum bicho de sete-cabeças. Estes procedimentos podem mudar sem aviso por parte do Governo Irlandês. Além de reler o descrito neste FAQ, obrigatoriamente abra os sites nos links “Procedimentos” deste capítulo, e confirme a informação.
 

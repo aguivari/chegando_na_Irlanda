@@ -1,6 +1,6 @@
 # Alugando imóveis na Irlanda
 
-**Contribuído por Leandro Azeredo**
+Contribuído por Leandro Azeredo
 
 Se você têm e trouxe o pet, vai ser um pouco mais difícil alugar. Landlords não costumam ser muito receptivos com animais. procure chegar se hospedando na casa de algum conhecido visto que AirBNB pode ser um pouco custoso, isso sem mencionar que contratar serviços de terceiros para locação facilita, mas pagar 1500 EUR para assegurar um local para alugar acaba sendo um pouco pesaroso.
 
