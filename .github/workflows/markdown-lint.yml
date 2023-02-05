@@ -42,7 +42,8 @@ jobs:
       if: github.event_name == 'pull_request'
       uses: thollander/actions-comment-pull-request@v2.3.1
       with:
-        error_file: markdownlint_result.json
-        artifact_path: markdownlint_result.json
+        filePath: markdownlint_result.json
         repo-token: ${{ secrets.GITHUB_TOKEN }}
+        comment_tag: Markdown Lint Results
+        mode: 'failure'
 
