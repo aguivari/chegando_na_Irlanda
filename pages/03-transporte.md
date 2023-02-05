@@ -46,7 +46,6 @@ Há alguns tipos diferentes de Leap card, sendo eles:
 * Children's Leap Card - para crianças de 5-15 anos de idade
 * Children's 16-18 Leap Card - para crianças de 16-18 anos de idade
 * Student's Leap Card - para estudantes do secundário ou college/universidade com 19 anos em diante.
-
   
 [https://about.leapcard.ie/about/card-ticket-types](https://about.leapcard.ie/about/card-ticket-types)  
 [https://www.studentleapcard.ie/what-is-the-studentleapcard](https://www.studentleapcard.ie/what-is-the-studentleapcard)  
