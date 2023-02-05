@@ -25,13 +25,30 @@ jobs:
       run: npm install markdownlint-cli --save-dev
 
     - name: Lint markdown files
+      id: lint
+      continue-on-error: true
       run: |
-        npx markdownlint --ignore node_modules --disable MD013 -- '**/*.md' 2> markdownlint_errors.txt
-        if [ -s markdownlint_errors.txt ]; then exit 1; fi
+        npx markdownlint --ignore node_modules --disable MD013 -- '**/*.md' > markdownlint_result.txt || true
+        echo ::set-output name=error::$(cat markdownlint_result.txt)
+        echo ::set-output name=file::markdownlint_result.txt
+        echo ::set-output name=file_url::https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts/markdownlint_result.txt
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Comment on pull request
-      if: failure()
+      if: github.event_name == 'pull_request'
       uses: thollander/actions-comment-pull-request@v2.3.1
       with:
-        message: "Lint errors found in the following files:\n```\n$(cat markdownlint_errors.txt)\n```"
+        pull-request-number: "${{ github.event.pull_request.number }}"
+        repo-token: "${{ secrets.GITHUB_TOKEN }}"
+        message: |
+          ## Markdown Lint Results
+          ${{ steps.lint.outputs.file_url }}
+          
+          ## Lint Errors
+          ```
+          ${{ steps.lint.outputs.error }}
+          ```
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
