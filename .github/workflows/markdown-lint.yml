@@ -39,14 +39,28 @@ jobs:
 
     - name: Comment on pull request
       if: github.event_name == 'pull_request'
-      uses: peter-evans/create-or-update-pull-request-comment@v3
+      uses: actions/github-script@v2
       with:
-        body: |
+        script: |
+          const lintErrors = steps.lint.outputs.stderr;
+          const lintResultsLink = steps.results.outputs.artifact_url;
+          const pullRequestNumber = github.event.number;
+
+          const commentBody = `
           ## Markdown Lint Results
-
-          ${{ steps.results.outputs.artifact_url }}
-
+          ${lintResultsLink}
           ## Lint Errors
-          ${{ steps.lint.outputs.stderr }}
+          ${lintErrors}
+          `;
+
+          const response = await github.pulls.createReview({
+            owner: github.repository.owner.login,
+            repo: github.repository.name,
+            pull_number: pullRequestNumber,
+            body: commentBody,
+            event: "COMMENT"
+          });
+
+          console.log(response.data);
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
