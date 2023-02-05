@@ -40,10 +40,10 @@ jobs:
         
     - name: Comment on pull request
       if: github.event_name == 'pull_request'
-      uses: actions/github-script@v2
+      uses: actions/github-script@v6.4.0
       with:
         script: |
-          const lintErrors = steps.lint.outputs.stderr;
+          const lintErrors = steps.lint.outputs.stderr || '';
           const lintResultsLink = steps.results.outputs.artifact_url;
           const pullRequestNumber = github.event.number;
 
