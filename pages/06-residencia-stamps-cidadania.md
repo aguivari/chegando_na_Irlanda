@@ -21,8 +21,8 @@ Há diversos tipos de Stamps disponíveis para residentes cidadãos de outros pa
 * Stamp 1 - Usado para pessoas que estão aqui por que tem um Work Permit válido. O tempo de permanência com Stamp1 é contabilizado para aquisição de cidadania. O detentor do Stamp1 só pode trabalhar na empresa para o qual foi contratado e um Work Permit foi emitido, seja ele Critical Skills ou General Employment. O detentor não pode abrir empresa ou trabalhar como self-employed/autônomo.
 
 * Stamp 1G - Usado como uma autorização de trabalho não ligada à um empregador. O detentor não pode abrir empresa ou trabalhar como self-employed/autônomo. Além disso, o detentor não pode usufruir de recursos públicos, Pode ser usado em dois casos:
-    * Como uma autorização de trabalho full time não ligada à um work permit para recém formados, por até 1 ano (undergraduate) ou 2 anos (post graduate). Nesta situação o stamp não conta como tempo de residência para naturalização;
-    * Como autorização de residência para cônjuges de detentores de Work Permit Critical Skills (CSEP). Nesta situação conta como tempo de residência para fins de naturalização;
+  * Como uma autorização de trabalho full time não ligada à um work permit para recém formados, por até 1 ano (undergraduate) ou 2 anos (post graduate). Nesta situação o stamp não conta como tempo de residência para naturalização;
+  * Como autorização de residência para cônjuges de detentores de Work Permit Critical Skills (CSEP). Nesta situação conta como tempo de residência para fins de naturalização;
 * Stamp 1A - Utilizado para estudantes de Contabilidade/Accounting que precisam fazer ter tempo de treinamento durante o período do curso como parte integral da formação em Accounting. Não conta como tempo de residência para fins de aquisição de cidadania por naturalização. O detentor não pode abrir empresa ou trabalhar como self-employed/autônomo.
 
 * Stamp 2/2A - Utilizado para estudantes estrangeiros de língua inglesa ou cursos superiores. Permite trabalho ocasional/tempo parcial (20h/semana). Não conta como tempo de residência para fins de aquisição de cidadania por naturalização. O detentor não pode abrir empresa ou trabalhar como self-employed/autônomo.
@@ -30,12 +30,12 @@ Há diversos tipos de Stamps disponíveis para residentes cidadãos de outros pa
 * Stamp 3 - Utilizado por cônjuges de detentores de Work permit, ou por alguns tipos de visitantes como voluntários ou membros de ordens eclesiásticas. O tempo de residência com este stamp vale para fins de naturalização. Para cônjuges de detentores de General Employment Work Permit, é o único stamp possível. O detentor não pode abrir empresa ou trabalhar como empregado nem como self-employed/autônomo.
 
 * Stamp 4 - Utilizado para diversas situações, entre elas:
-    * Autorização de residência para familiares não-EU/EEA/Suiços de cidadãos da EU/EEA/Suíça;
-    * Por pessoas que passaram 2 anos trabalhando com um Work Permit tipo Critical Skills;
-    * Por pessoas que passaram 5 anos trabalhando com Stamp 1G ou com Stamp 1 por General Employment Work Permit;
-    * Observação 1: O detentor do Stamp 4 pode abrir empresa ou trabalhar como autônomo.
-    * Observação 2: O tempo de residência com este stamp vale para fins de naturalização.
-    * Observação 3: De forma geral, permite o acesso à recursos publicos, com algumas exceções;
+  * Autorização de residência para familiares não-EU/EEA/Suiços de cidadãos da EU/EEA/Suíça;
+  * Por pessoas que passaram 2 anos trabalhando com um Work Permit tipo Critical Skills;
+  * Por pessoas que passaram 5 anos trabalhando com Stamp 1G ou com Stamp 1 por General Employment Work Permit;
+  * Observação 1: O detentor do Stamp 4 pode abrir empresa ou trabalhar como autônomo.
+  * Observação 2: O tempo de residência com este stamp vale para fins de naturalização.
+  * Observação 3: De forma geral, permite o acesso à recursos publicos, com algumas exceções;
 
 * Stamp 5 - Utilizado como residência de longo prazo para quem está residindo legalmente na Irlanda há 8 anos. Nem todo stamp conta como tempo para obter este stamp. Conta como residência para fins de naturalização.
 

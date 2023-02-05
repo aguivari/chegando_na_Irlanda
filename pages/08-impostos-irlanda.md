@@ -132,11 +132,11 @@ O Tax credit certificate é o documento emitido pela Revenue que determina quant
 
 Há diversos tipos de tax credit disponíveis, os principais sendo (valores de 2019):
 
-*   Personal Tax Credit (€1650)
-*   Employee Tax Credit (€1650)
-*   Home Carer Tax Credit (€1500)
-*   Single Parent Family Tax Credit (€1650)
-*   Earned Income Tax Credit (autonomo) ( €1,350)
+* Personal Tax Credit (€1650)
+* Employee Tax Credit (€1650)
+* Home Carer Tax Credit (€1500)
+* Single Parent Family Tax Credit (€1650)
+* Earned Income Tax Credit (autonomo) ( €1,350)
 
 Pessoas solteiras sem filhos que estiverem trabalhando tem direito à € 3300 (1650 de personal tax credits mais 1650 de employee tax credits)
 
@@ -169,7 +169,6 @@ Logo, se o segundo cônjuge ganha 25 mil, o cut-off total será de 69300, ao inv
 O cut-off limit pode ser dividido meio a meio caso ambos tenham salários parecidos, ou pode ser concentrado no cônjuge que recebe maior salário.
 
 Pelas regras do revenue, o ano em que o casal casou não pode ser usado para joint assessment, mas na declaração de impostos do ano seguinte, caso seja calculado que o casal pagou mais como solteiro do que pagaria como casados, pode haver um reembolso do imposto pago proporcional ao número de meses nos quais o casal já estava casado.
-
   
 [https://www.revenue.ie/en/life-events-and-personal-circumstances/marital-status/marriage-and-civil-partnerships/index.aspx](https://www.revenue.ie/en/life-events-and-personal-circumstances/marital-status/marriage-and-civil-partnerships/index.aspx)
 
@@ -221,7 +220,6 @@ O Tax Credit Certificate descreve os Tax credits, os limites de cut-off para as 
 
 Quando o Tax credit certificate é gerado ou atualizado, a Receita envia a nova versão para a empresa, mas o empregado pode também enviá-lo para agilizar o processo.
 
-  
 Um Exemplo de Tax Credit Certificate para o ano de 2020 (clique para visão maior):  
 ![TCC Sample.png](../images/TCC_Sample.png)
 
@@ -234,7 +232,6 @@ O tax Credit Certificate tem as seguintes seções:
 * Alocação dos Tax Credits e dos Rate bands para Income tax entre os cônjuges, e com a os valores anuais/mensais/semanais
 * Alocação dos Rate bands para USC, e com a os valores anuais/mensais/semanais
 
-  
 [https://www.revenue.ie/en/jobs-and-pensions/calculating-your-income-tax/what-is-a-tax-credit-certificate.aspx](https://www.revenue.ie/en/jobs-and-pensions/calculating-your-income-tax/what-is-a-tax-credit-certificate.aspx)
 
 ### Capital gains Tax

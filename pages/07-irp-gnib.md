@@ -1,6 +1,6 @@
 # Fazendo o IRP/GNIB
 
-## Documentos necessários
+## Documentos necessários (IRP/GNIB)
 
 ## Procedimento de registro, renovação, mudança de stamp
 
@@ -12,13 +12,13 @@ Para outros condados, o procedimento continua presencial na estação da Garda d
 
 [https://inisonline.jahs.ie/](https://inisonline.jahs.ie/)
 
-# Fazendo o PPS
+## Fazendo o PPS
 
 Atenção - com o COVID, o atendimento para o PPS está sendo feito através de welfare.ie usando o MyGovID, mais informações em: [https://www.gov.ie/en/service/12e6de-get-a-personal-public-service-pps-number/](https://www.gov.ie/en/service/12e6de-get-a-personal-public-service-pps-number/)
 
 Também por causa do COVID, não estão sendo emitidos cartões PSC, pois precisam de validação presencial.
 
-## Documentos necessários
+## Documentos necessários (PPS)
 
 A depender da circunstância pessoal e da razão para tirar o PPS, diferentes documentos podem ser solicitados:
 

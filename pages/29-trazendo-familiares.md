@@ -20,7 +20,6 @@ Exemplo de Carta para apresentação na imigração:
 <Town>
 <County>
 <EirCode>
- 
 
 To Whom It May Concern,
   
@@ -45,7 +44,6 @@ Enclosed are the following supporting documents:
 \* A copy of my proof of address.
  
 If you require any additional information, please do not hesitate to get in contact with me on the phone number <Seu telefone>.
-
 
 Yours faithfully,
  

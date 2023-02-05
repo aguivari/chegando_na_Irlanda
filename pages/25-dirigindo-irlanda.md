@@ -158,11 +158,11 @@ Países/territórios com os quais a Irlanda tem acordo de troca da carteira de m
 * New Zealand
 * Taiwan
 * Regiões do Canadá:
-    * Ontario
-    * Manitoba
-    * Newfoundland & Labrador
-    * British Columbia
-    * Saskatchewan
+  * Ontario
+  * Manitoba
+  * Newfoundland & Labrador
+  * British Columbia
+  * Saskatchewan
 
 Maiores informações em:  
 [https://www.ndls.ie/holders-of-foreign-licences.html](https://www.ndls.ie/holders-of-foreign-licences.html)  
