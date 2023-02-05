@@ -16,7 +16,7 @@ Uma versão curta e grossa desse FAQ seria:
 1.    Entenda as semelhanças e as diferenças entre Brasil e Irlanda
 2.      Verifique o que precisa ser feito ainda antes de sair do Brasil
 3.    Verifique o que precisa ser feito logo após chegar na Irlanda
-4.   Verifique o que pode ser feito com calma depois da chegada
+4.    Verifique o que pode ser feito com calma depois da chegada
 
 Este texto é um "Work in Progress" - estará em construção permanentemente, já que regras mudam eventualmente e outros tópicos podem entrar ou sair.
 
