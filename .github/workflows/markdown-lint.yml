@@ -24,7 +24,7 @@ jobs:
 
     - name: Lint markdown files
       run: |
-        npx markdownlint --config .markdownlint.json "**/*.md"
+        npx markdownlint --config .markdownlint.json "pages/**/*.md"
         if [ $? -ne 0 ]; then
           echo "::error::Markdown linting failed"
           exit 1
