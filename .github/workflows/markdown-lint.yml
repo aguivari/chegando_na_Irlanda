@@ -33,5 +33,5 @@ jobs:
       if: failure()
       uses: thollander/actions-comment-pull-request@v2.3.1
       with:
-        body: "Lint errors found in the following files:\n```\n$(cat markdownlint_errors.txt)\n```"
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        message: "Lint errors found in the following files:\n```\n$(cat markdownlint_errors.txt)\n```"
+
