@@ -1,0 +1,9 @@
+- name: markdown-lint
+  # You may pin to the exact commit or the version.
+  # uses: articulate/actions-markdownlint@17b8abe7407cd17590c006ecc837c35e1ac3ed83
+  uses: articulate/actions-markdownlint@v1.1.0
+  with:
+    # markdownlint config file
+    config: markdown-config.yaml 
+    # Markdown files to scan
+    files: **/*.{md,markdown}
