@@ -25,31 +25,18 @@ jobs:
     - name: Lint markdown files
       continue-on-error: true
       run: |
-        npx markdownlint --ignore node_modules --disable MD013 -- '**/*.md'
+        npx markdownlint --ignore node_modules --disable MD013 -- '**/*.md' > markdownlint_result.json
+        if [ -s markdownlint_result.json ]; then 
+          echo "Linting failed."
+          exit 1
+        fi
 
     - name: Comment on pull request
       if: github.event_name == 'pull_request'
-      uses: actions/github-script@v6.4.0
+      uses: thollander/actions-comment-pull-request@v2.3.1
       with:
-        script: |
-          const lintErrors = context.steps.lint.outputs.error || '';
-          const pullRequestNumber = github.event.number;
-          let commentBody = `
+        msg: |
           ## Markdown Lint Results
-          `;
-          if (lintErrors) {
-            commentBody += `
-            ## Lint Errors
-            ${lintErrors}
-            `;
-          }
-          const response = await github.pulls.createReview({
-            owner: github.repository.owner.login,
-            repo: github.repository.name,
-            pull_number: pullRequestNumber,
-            body: commentBody,
-            event: "COMMENT"
-          }); 
-          console.log(response.data);
+          The linting results are available in the artifact [markdownlint_result.json](${{ steps.lint.outputs.artifact_url }}).
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
