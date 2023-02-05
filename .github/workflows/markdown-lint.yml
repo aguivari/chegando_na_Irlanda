@@ -43,8 +43,8 @@ jobs:
       uses: actions/github-script@v2
       with:
         script: |
-          const lintErrors = github.run.step.outputs.lint.stderr;
-          const lintResultsLink = github.run.step.outputs.lint.artifact_url;
+          const lintErrors = steps.lint.outputs.stderr;
+          const lintResultsLink = steps.results.outputs.artifact_url;
           const pullRequestNumber = github.event.number;
 
           const commentBody = `
