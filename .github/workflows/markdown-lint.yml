@@ -31,6 +31,13 @@ jobs:
           exit 1
         fi
 
+    - name: Report linting results
+      id: results
+      uses: actions/upload-artifact@v2
+      with:
+        name: lint-report.json
+        path: markdownlint_result.json
+        
     - name: Comment on pull request
       if: github.event_name == 'pull_request'
       uses: actions/github-script@v2
