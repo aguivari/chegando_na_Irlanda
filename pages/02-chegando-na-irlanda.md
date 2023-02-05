@@ -1,23 +1,22 @@
-Chegando na Irlanda
--------------------------------------------------------------------------------------------------------------------------
+# Chegando na Irlanda
 
-### Passando pela Imigração
+## Passando pela Imigração
 
 De forma geral, a imigração é tranquila, bastando estar portando os seguintes documentos:
 
-*   Passaporte(s);
-*   Se necessário, visto(s) de entrada na Irlanda;
-*   Work Permit;
-*   Comprovante de acomodação para os primeiros dias;
-*   Comprovante de seguro viagem para os primeiros dias;
-*   Certidões de casamento e nascimento para comprovação de vínculo familiar;
-*   Autorização de viagem/residência no exterior caso algum familiar menor de 18 anos esteja desacompanhado do(s) genitor(es).
+* Passaporte(s);
+* Se necessário, visto(s) de entrada na Irlanda;
+* Work Permit;
+* Comprovante de acomodação para os primeiros dias;
+* Comprovante de seguro viagem para os primeiros dias;
+* Certidões de casamento e nascimento para comprovação de vínculo familiar;
+* Autorização de viagem/residência no exterior caso algum familiar menor de 18 anos esteja desacompanhado do(s) genitor(es).
 
 A depender do agente de imigração, ele pode não pedir os comprovantes de seguro e acomodação, mas é bom estar preparado para mostrar caso seja solicitado.
 
 Durante o controle migratório será feito um pré-registro no GNIB (Garda National Identification Bureau) de todos os portadores de passaportes não-europeus com idade igual ou superior a 16 anos. Uma data limite para registro no GNIB será também estabelecida (usualmente 90 dias após da data de entrada), sendo necessário realizar o primeiro registro no GNIB e obter a autorização de residência, com o Stamp correspondente ao tipo de autorização.
 
-### Adquirindo chip com número local
+## Adquirindo chip com número local
 
 Ao sair do desembarque, se tiver agendado o PPS para os próximos dias, uma possibilidade é comprar logo um chip de operadora local em alguma loja de conveniência do aeroporto. Há lojas de conveniência no aeroporto onde o chip poderá ser adquirido. A Irlanda dispõe de portabilidade numérica, então você poderá depois migrar o número caso troque de operadora.
 
@@ -31,7 +30,7 @@ Os códigos geográficos começam de 1 a 7 e 9. Eles têm comprimento variável.
 
 [https://www.comreg.ie/industry/licensing/numbering/area-code-maps-2/#modal-text](https://www.comreg.ie/industry/licensing/numbering/area-code-maps-2/#modal-text)
 
-### Adquirindo cartões de transporte público
+## Adquirindo cartões de transporte público
 
 **Atenção: por conta da Pandemia de COVID-19, há regras para uso de transporte público. Favor verificar em:**
 
@@ -53,13 +52,13 @@ Há também um app para celulares com suporte a NFC para ver instantaneamente in
 [https://www.leapcard.ie/en/login.aspx](https://www.leapcard.ie/en/login.aspx)  
 [https://about.leapcard.ie/leap-top-up-app](https://about.leapcard.ie/leap-top-up-app)  
 
-### Transfer aeroporto/cidade
+## Transfer aeroporto/cidade
 
 Basicamente há 4 formas de sair do aeroporto e ir para Dublin.
 
-*   Carona de amigos/familiares;
-*   Taxi;
-*   Serviços de Transfer;
-*   Ônibus;
+* Carona de amigos/familiares;
+* Taxi;
+* Serviços de Transfer;
+* Ônibus;
 
 Há dois terminais de ônibus no aeroporto, para ônibus intermunicipais e para transfer para diversos pontos de Dublin.
