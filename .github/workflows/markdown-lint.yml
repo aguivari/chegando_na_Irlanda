@@ -42,7 +42,7 @@ jobs:
       if: github.event_name == 'pull_request'
       uses: thollander/actions-comment-pull-request@v2.3.1
       with:
-        body: |
+        message: |
           ## Markdown Lint Results
           ${{ steps.results.outputs.artifact_url }}
           ## Lint Errors
