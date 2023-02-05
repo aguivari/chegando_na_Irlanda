@@ -27,23 +27,24 @@ jobs:
       run: |
         npx markdownlint --ignore node_modules --disable MD013 -- '**/*.md' 
 
-       
+    - name: Report linting results
+      id: results
+      uses: actions/upload-artifact@v3.1.2
+      with:
+        name: lint-report.json
+        path: markdownlint_result.json
+
     - name: Comment on pull request
       if: github.event_name == 'pull_request'
       uses: actions/github-script@v6.4.0
       with:
         script: |
-          const lintErrors = context.steps.lint.outputs.error || '';
-          const lintResultsLink = context.steps.results.outputs.artifact_url;
+          const lintResultsLink = steps.results.outputs.artifact_url;
           const pullRequestNumber = github.event.number;
-
           const commentBody = `
           ## Markdown Lint Results
           ${lintResultsLink}
-          ## Lint Errors
-          ${lintErrors}
           `;
-
           const response = await github.pulls.createReview({
             owner: github.repository.owner.login,
             repo: github.repository.name,
@@ -51,7 +52,6 @@ jobs:
             body: commentBody,
             event: "COMMENT"
           });
-
           console.log(response.data);
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
