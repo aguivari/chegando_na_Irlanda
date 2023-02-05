@@ -1,7 +1,6 @@
-Visto de entrada na Irlanda
------------------------------------------------------------------------------------------------------------------------------------------
+# Visto de entrada na Irlanda
 
-### Quem precisa de Visto
+## Quem precisa de Visto
 
 De forma geral, todos os países controlam a entrada de cidadãos de outros países em seu território.
 
@@ -25,7 +24,7 @@ Cidadãos de outros países devem checar se tem necessidade de visto.
 
 [https://www.dfa.ie/travel/travel-advice/a-z-list-of-countries/brazil/](https://www.dfa.ie/travel/travel-advice/a-z-list-of-countries/brazil/)
 
-### European Travel Information and Authorisation System (ETIAS)
+## European Travel Information and Authorisation System (ETIAS)
 
 A União Européia tem planos de introduzir no final de 2022 um sistema de pré-autorização de viagem denominado ETIAS.
 
@@ -41,15 +40,15 @@ Como não há muitos voos do Brasil para a Irlanda através de rotas que não pa
 
 [https://ec.europa.eu/home-affairs/sites/default/files/policies/borders/docs/20200401\_memo.pdf](https://ec.europa.eu/home-affairs/sites/default/files/policies/borders/docs/20200401_memo.pdf)
 
-### Tipos de visto
+## Tipos de visto
 
 Para os cidadãos de países dos quais se exige um visto de entrada, diversos tipos de visto estão disponíveis.
 
 Os vistos de entrada na Irlanda são divididos entre:
 
-*   vistos de estadia curta (Vistos Tipo C, até 3 meses de estadia),
-*   vistos de estadia longa (Vistos tipo D, mais que 3 meses de estadia) e
-*   vistos apenas para Trânsito.
+* Vistos de estadia curta (Vistos Tipo C, até 3 meses de estadia),
+* Vistos de estadia longa (Vistos tipo D, mais que 3 meses de estadia) e
+* Vistos apenas para Trânsito.
 
 Além disso, os vistos pode ser emitidos para uma entrada apenas, ou múltiplas entradas na Irlanda.
 
@@ -67,4 +66,4 @@ Mais informações pode ser encontrada no site do INIS.
 [http://www.inis.gov.ie/en/INIS/Pages/Single%20Multi%20Entry%20Visas](http://www.inis.gov.ie/en/INIS/Pages/Single%20Multi%20Entry%20Visas)  
 [http://www.inis.gov.ie/en/INIS/Pages/Apply%20for%20a%20visa](http://www.inis.gov.ie/en/INIS/Pages/Apply%20for%20a%20visa)  
 [http://www.inis.gov.ie/en/INIS/Pages/abolition-of-adult-re-entry-visas](http://www.inis.gov.ie/en/INIS/Pages/abolition-of-adult-re-entry-visas)  
-[http://www.inis.gov.ie/en/INIS/Pages/application-for-a-re-entry-visa-for-a-minor-under-16](http://www.inis.gov.ie/en/INIS/Pages/application-for-a-re-entry-visa-for-a-minor-under-16)  
+[http://www.inis.gov.ie/en/INIS/Pages/application-for-a-re-entry-visa-for-a-minor-under-16](http://www.inis.gov.ie/en/INIS/Pages/application-for-a-re-entry-visa-for-a-minor-under-16)
