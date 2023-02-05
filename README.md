@@ -25,7 +25,7 @@ Ressalvas:
 *   Não trate nenhuma parte deste texto como verdade, sempre consulte fontes oficiais para ter a informação mais correta/atualizada;
 *   Na medida do possível todas as seções terão links para sites oficiais tratando de cada assunto abordado;
 *   Será tentado ser o mais preciso e correto quanto possível, no entanto erros ou imprecisões estarão presentes eventualmente;
-*  Não use este conteúdo como conselho sobre imigração ou sobre práticas fiscais.
+*   Não use este conteúdo como conselho sobre imigração ou sobre práticas fiscais.
 
 Caso tenha alguma sugestão ou crítica, envie e-mail para [chegandonairlanda@gmail.com](mailto:chegandonairlanda@gmail.com)
 
