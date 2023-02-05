@@ -24,9 +24,7 @@ jobs:
 
     - name: Lint markdown files
       run: |
-        ls -l pages/*
-        ls -l *
-        npx markdownlint "pages/**/*.md"
+        npx markdownlint '**/*.md' --ignore node_modules
         if [ $? -ne 0 ]; then
           echo "::error::Markdown linting failed"
           exit 1
