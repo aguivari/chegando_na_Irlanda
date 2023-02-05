@@ -14,10 +14,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Set up Node.js
+    - name: Set up Node.js 16
       uses: actions/setup-node@v2
       with:
-        node-version: 14
+        node-version: 16
 
     - name: Install dependencies
       run: npm ci
@@ -39,28 +39,12 @@ jobs:
 
     - name: Comment on pull request
       if: github.event_name == 'pull_request'
-      uses: actions/github-script@v2
+      uses: peter-evans/create-or-update-pull-request-comment@v3
       with:
-        script: |
-          const lintErrors = steps.lint.outputs.stderr;
-          const lintResultsLink = steps.results.outputs.artifact_url;
-          const pullRequestNumber = github.event.number;
-
-          const commentBody = `
+        message: |
           ## Markdown Lint Results
-          ${lintResultsLink}
+          ${{ steps.results.outputs.artifact_url }}
           ## Lint Errors
-          ${lintErrors}
-          `;
-
-          const response = await github.pulls.createReview({
-            owner: github.repository.owner.login,
-            repo: github.repository.name,
-            pull_number: pullRequestNumber,
-            body: commentBody,
-            event: "COMMENT"
-          });
-
-          console.log(response.data);
+          ${{ steps.lint.outputs.stderr }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
