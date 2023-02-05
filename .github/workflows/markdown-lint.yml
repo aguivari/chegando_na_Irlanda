@@ -25,21 +25,15 @@ jobs:
     - name: Lint markdown files
       continue-on-error: true
       run: |
-        npx markdownlint --ignore node_modules --disable MD013 -- '**/*.md' -o lint-report.json
+        npx markdownlint --ignore node_modules --disable MD013 -- '**/*.md' 
 
-    - name: Report linting results
-      id: results
-      uses: actions/upload-artifact@v3.1.2
-      with:
-        name: lint-report.json
-        path: markdownlint_result.json
-        
+       
     - name: Comment on pull request
       if: github.event_name == 'pull_request'
       uses: actions/github-script@v6.4.0
       with:
         script: |
-          const lintErrors = steps.lint.outputs.stderr || '';
+          const lintErrors = steps.lint.outputs.error || '';
           const lintResultsLink = steps.results.outputs.artifact_url;
           const pullRequestNumber = github.event.number;
 
