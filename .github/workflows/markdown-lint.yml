@@ -35,7 +35,7 @@ jobs:
       if: github.event_name == 'pull_request'
       uses: thollander/actions-comment-pull-request@v2.3.1
       with:
-        msg: |
+        message: |
           ## Markdown Lint Results
           The linting results are available in the artifact [markdownlint_result.json](${{ steps.lint.outputs.artifact_url }}).
       env:
