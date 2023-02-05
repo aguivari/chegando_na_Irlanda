@@ -29,26 +29,20 @@ jobs:
       continue-on-error: true
       run: |
         npx markdownlint --ignore node_modules --disable MD013 -- '**/*.md' > markdownlint_result.txt || true
-        echo ::set-output name=error::$(cat markdownlint_result.txt)
-        echo ::set-output name=file::markdownlint_result.txt
-        echo ::set-output name=file_url::https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts/markdownlint_result.txt
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+    - name: Upload lint results
+      uses: actions/upload-artifact@v2.3.2
+      with:
+        name: markdownlint_result.json
+        path: markdownlint_result.json
+        
     - name: Comment on pull request
       if: github.event_name == 'pull_request'
       uses: thollander/actions-comment-pull-request@v2.3.1
       with:
-        pull-request-number: "${{ github.event.pull_request.number }}"
-        repo-token: "${{ secrets.GITHUB_TOKEN }}"
-        message: |
-          ## Markdown Lint Results
-          ${{ steps.lint.outputs.file_url }}
-          
-          ## Lint Errors
-          ```
-          ${{ steps.lint.outputs.error }}
-          ```
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        error_file: markdownlint_result.json
+        artifact_path: markdownlint_result.json
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
 
