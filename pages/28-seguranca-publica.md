@@ -1,6 +1,5 @@
-Segurança Pública na Irlanda
---------------------------------------------------------------------------------------------------------------------------------------------
+# Segurança Pública na Irlanda
 
-### An Garda Síochána
+## An Garda Síochána
 
-### Estatísticas
+## Estatísticas

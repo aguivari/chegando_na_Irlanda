@@ -1,9 +1,8 @@
-Pedindo Drugs Payment Scheme
---------------------------------------------------------------------------------------------------------------------------------------------
+# Pedindo Drugs Payment Scheme
 
-### Quem pode pedir
+## Quem pode pedir
 
-### Procedimento
+## Procedimento
 
 [https://www2.hse.ie/services/drugs-payment-scheme/drugs-payment-scheme-card.html](https://www2.hse.ie/services/drugs-payment-scheme/drugs-payment-scheme-card.html)  
 [https://www.mydps.ie](https://www.mydps.ie)  

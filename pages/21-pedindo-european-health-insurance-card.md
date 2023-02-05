@@ -1,9 +1,8 @@
-Pedindo European Health Insurance Card
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Pedindo European Health Insurance Card
 
-### Quem pode pedir
+## Quem pode pedir
 
-### Procedimento
+## Procedimento
 
 [https://www2.hse.ie/services/ehic/ehic.html](https://www2.hse.ie/services/ehic/ehic.html)  
 [https://www.sspcrs.ie/portal/ehic/](https://www.sspcrs.ie/portal/ehic/)  

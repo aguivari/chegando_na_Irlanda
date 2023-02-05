@@ -1,7 +1,6 @@
-Residência na Irlanda/Stamps/Cidadania
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Residência na Irlanda/Stamps/Cidadania
 
-### Quem precisa de registro?
+## Quem precisa de registro?
 
 Todo cidadão de país de fora da EU/EEA/Suíça a partir de 16 anos de idade deve se registrar na Irlanda para residir além de 90 dias.
 
@@ -13,40 +12,40 @@ Para residentes em outras cidades, normalmente não há necessidade de agendamen
 
 [https://www.citizensinformation.ie/en/moving\_country/moving\_to\_ireland/rights\_of\_residence\_in\_ireland/registration\_of\_non\_eea\_nationals\_in\_ireland.html](https://www.citizensinformation.ie/en/moving_country/moving_to_ireland/rights_of_residence_in_ireland/registration_of_non_eea_nationals_in_ireland.html)
 
-### Stamps
+## Stamps
 
 Há diversos tipos de Stamps disponíveis para residentes cidadãos de outros países fora da União Europeia (EU), Área Economica Europea (EEA) ou Suíça, a depender da razão da estadia. Os principais são:
 
-*   Stamp 0 - Usado para pessoas que se aposentaram e querem viver na Irlanda com renda própria, ou dependente de um familiar que aqui reside. Esse Stamp não permite uso de sistema público de saúde ou outros benefícios governamentais, e também não conta como tempo de residência para fins de pedido de naturalização.
+* Stamp 0 - Usado para pessoas que se aposentaram e querem viver na Irlanda com renda própria, ou dependente de um familiar que aqui reside. Esse Stamp não permite uso de sistema público de saúde ou outros benefícios governamentais, e também não conta como tempo de residência para fins de pedido de naturalização.
 
-*   Stamp 1 - Usado para pessoas que estão aqui por que tem um Work Permit válido. O tempo de permanência com Stamp1 é contabilizado para aquisição de cidadania. O detentor do Stamp1 só pode trabalhar na empresa para o qual foi contratado e um Work Permit foi emitido, seja ele Critical Skills ou General Employment. O detentor não pode abrir empresa ou trabalhar como self-employed/autônomo.
+* Stamp 1 - Usado para pessoas que estão aqui por que tem um Work Permit válido. O tempo de permanência com Stamp1 é contabilizado para aquisição de cidadania. O detentor do Stamp1 só pode trabalhar na empresa para o qual foi contratado e um Work Permit foi emitido, seja ele Critical Skills ou General Employment. O detentor não pode abrir empresa ou trabalhar como self-employed/autônomo.
 
-*   Stamp 1G - Usado como uma autorização de trabalho não ligada à um empregador. O detentor não pode abrir empresa ou trabalhar como self-employed/autônomo. Além disso, o detentor não pode usufruir de recursos públicos, Pode ser usado em dois casos:
-    *   Como uma autorização de trabalho full time não ligada à um work permit para recém formados, por até 1 ano (undergraduate) ou 2 anos (post graduate). Nesta situação o stamp não conta como tempo de residência para naturalização;
-    *   Como autorização de residência para cônjuges de detentores de Work Permit Critical Skills (CSEP). Nesta situação conta como tempo de residência para fins de naturalização;
-*   Stamp 1A - Utilizado para estudantes de Contabilidade/Accounting que precisam fazer ter tempo de treinamento durante o período do curso como parte integral da formação em Accounting. Não conta como tempo de residência para fins de aquisição de cidadania por naturalização. O detentor não pode abrir empresa ou trabalhar como self-employed/autônomo.
+* Stamp 1G - Usado como uma autorização de trabalho não ligada à um empregador. O detentor não pode abrir empresa ou trabalhar como self-employed/autônomo. Além disso, o detentor não pode usufruir de recursos públicos, Pode ser usado em dois casos:
+    * Como uma autorização de trabalho full time não ligada à um work permit para recém formados, por até 1 ano (undergraduate) ou 2 anos (post graduate). Nesta situação o stamp não conta como tempo de residência para naturalização;
+    * Como autorização de residência para cônjuges de detentores de Work Permit Critical Skills (CSEP). Nesta situação conta como tempo de residência para fins de naturalização;
+* Stamp 1A - Utilizado para estudantes de Contabilidade/Accounting que precisam fazer ter tempo de treinamento durante o período do curso como parte integral da formação em Accounting. Não conta como tempo de residência para fins de aquisição de cidadania por naturalização. O detentor não pode abrir empresa ou trabalhar como self-employed/autônomo.
 
-*   Stamp 2/2A - Utilizado para estudantes estrangeiros de língua inglesa ou cursos superiores. Permite trabalho ocasional/tempo parcial (20h/semana). Não conta como tempo de residência para fins de aquisição de cidadania por naturalização. O detentor não pode abrir empresa ou trabalhar como self-employed/autônomo.
+* Stamp 2/2A - Utilizado para estudantes estrangeiros de língua inglesa ou cursos superiores. Permite trabalho ocasional/tempo parcial (20h/semana). Não conta como tempo de residência para fins de aquisição de cidadania por naturalização. O detentor não pode abrir empresa ou trabalhar como self-employed/autônomo.
 
-*   Stamp 3 - Utilizado por cônjuges de detentores de Work permit, ou por alguns tipos de visitantes como voluntários ou membros de ordens eclesiásticas. O tempo de residência com este stamp vale para fins de naturalização. Para cônjuges de detentores de General Employment Work Permit, é o único stamp possível. O detentor não pode abrir empresa ou trabalhar como empregado nem como self-employed/autônomo.
+* Stamp 3 - Utilizado por cônjuges de detentores de Work permit, ou por alguns tipos de visitantes como voluntários ou membros de ordens eclesiásticas. O tempo de residência com este stamp vale para fins de naturalização. Para cônjuges de detentores de General Employment Work Permit, é o único stamp possível. O detentor não pode abrir empresa ou trabalhar como empregado nem como self-employed/autônomo.
 
-*   Stamp 4 - Utilizado para diversas situações, entre elas:
-    *   Autorização de residência para familiares não-EU/EEA/Suiços de cidadãos da EU/EEA/Suíça;
-    *   Por pessoas que passaram 2 anos trabalhando com um Work Permit tipo Critical Skills;
-    *   Por pessoas que passaram 5 anos trabalhando com Stamp 1G ou com Stamp 1 por General Employment Work Permit;
-    *   Observação 1: O detentor do Stamp 4 pode abrir empresa ou trabalhar como autônomo.
-    *   Observação 2: O tempo de residência com este stamp vale para fins de naturalização.
-    *   Observação 3: De forma geral, permite o acesso à recursos publicos, com algumas exceções;
+* Stamp 4 - Utilizado para diversas situações, entre elas:
+    * Autorização de residência para familiares não-EU/EEA/Suiços de cidadãos da EU/EEA/Suíça;
+    * Por pessoas que passaram 2 anos trabalhando com um Work Permit tipo Critical Skills;
+    * Por pessoas que passaram 5 anos trabalhando com Stamp 1G ou com Stamp 1 por General Employment Work Permit;
+    * Observação 1: O detentor do Stamp 4 pode abrir empresa ou trabalhar como autônomo.
+    * Observação 2: O tempo de residência com este stamp vale para fins de naturalização.
+    * Observação 3: De forma geral, permite o acesso à recursos publicos, com algumas exceções;
 
-*   Stamp 5 - Utilizado como residência de longo prazo para quem está residindo legalmente na Irlanda há 8 anos. Nem todo stamp conta como tempo para obter este stamp. Conta como residência para fins de naturalização.
+* Stamp 5 - Utilizado como residência de longo prazo para quem está residindo legalmente na Irlanda há 8 anos. Nem todo stamp conta como tempo para obter este stamp. Conta como residência para fins de naturalização.
 
-*   Stamp 6 - Utilizado por pessoas com dupla cidadania, uma delas a irlandesa, no passaporte não-irlandês, para que a pessoa possa entrar no país sem entraves migratórios caso esteja sem passaporte irlandês válido.
+* Stamp 6 - Utilizado por pessoas com dupla cidadania, uma delas a irlandesa, no passaporte não-irlandês, para que a pessoa possa entrar no país sem entraves migratórios caso esteja sem passaporte irlandês válido.
 
 É crítico estar sempre com o registro válido junto ao GNIB para evitar problemas com registros futuros ou eventual pedido de cidadania. Estar sem registro é equivalente a estar ilegal no país.
 
 [http://www.inis.gov.ie/en/inis/pages/registration-stamps](http://www.inis.gov.ie/en/inis/pages/registration-stamps)
 
-### Registro/Renovação/Mudança de stamp
+## Registro/Renovação/Mudança de stamp
 
 O registro inicial deve ser feito até 90 dias após a entrada no país, ou prazo mais curto caso o oficial de imigração assim colocar no carimbo de admissão no país.
 
@@ -68,7 +67,7 @@ Em algumas circunstâncias, é possível mudar o tipo de Stamp/propósito da res
 
 [http://www.inis.gov.ie/en/INIS/Pages/registration](http://www.inis.gov.ie/en/INIS/Pages/registration)
 
-### Aquisição de cidadania
+## Aquisição de cidadania
 
 A Irlanda tem uma legislação muito favorável à obtenção de cidadania por não nacionais.
 
@@ -84,20 +83,20 @@ A obtenção da cidadania é publicada num jornal governamental com nomes comple
 
 A cidadania obtida por naturalização pode ser perdida em algumas circunstâncias, entre elas:
 
-*   caso haja declaração de guerra entre a Irlanda e o país de nascimento do cidadão naturalizado,
-*   caso o cidadão naturalizado obtenha uma terceira cidadania que não seja por sangue ou casamento,
-*   caso o cidadão naturalizado resida fora da Irlanda sem registrar anualmente a intenção de manter a cidadania Irlandesa,
-*   caso o cidadão naturalizado cometa atos de traição à patria,
-*   caso a cidadania tenha sido obtida mediante fraude.
+* Caso haja declaração de guerra entre a Irlanda e o país de nascimento do cidadão naturalizado,
+* Caso o cidadão naturalizado obtenha uma terceira cidadania que não seja por sangue ou casamento,
+* Caso o cidadão naturalizado resida fora da Irlanda sem registrar anualmente a intenção de manter a cidadania Irlandesa,
+* Caso o cidadão naturalizado cometa atos de traição à patria,
+* Caso a cidadania tenha sido obtida mediante fraude.
 
 [http://www.inis.gov.ie/en/INIS/Pages/WP16000022#non-eu-eea-swiss](http://www.inis.gov.ie/en/INIS/Pages/WP16000022#non-eu-eea-swiss)
 
-### Cidadania Irlandesa de nascidos na Irlanda
+## Cidadania Irlandesa de nascidos na Irlanda
 
 Até 31/12/2003, a Irlanda tinha dois tipos de aquisição de cidadania originária:
 
-*   Por ascendência (_jus sanguinis_) até segundo grau;
-*   Por nascimento em solo Irlandês (_jus solis_), sem restrições.
+* Por ascendência (_jus sanguinis_) até segundo grau;
+* Por nascimento em solo Irlandês (_jus solis_), sem restrições.
 
 Ou seja, até a data acima, qualquer pessoa nascida na Irlanda era considerada irlandesa, ou qualquer nascido fora da Irlanda de pelo menos um dos pais ou com um dos quatro avôs irlandê(esa), seria considerado cidadão irlandês.
 
@@ -107,8 +106,8 @@ Nem todo stamp conta para essa residência para fins de obtenção de cidadania 
 
 Com a mudança, a criança nascida na Irlanda será considerada irlandesa se:
 
-*   For filha ou neta da cidadãos irlandeses;
-*   For filha ou neta de não irlandeses, se um os pais residir legalmente por pelo 3 anos na Ireland.
+* For filha ou neta da cidadãos irlandeses;
+* For filha ou neta de não irlandeses, se um os pais residir legalmente por pelo 3 anos na Ireland.
 
 O processo de reconhecimento dessa cidadania por nascimento é feito pelo DFA (Department of Foreign Affairs), e os documentos necessários dependem da nacionalidade dos pais, com os requisitos listados na página abaixo:  
 
@@ -117,7 +116,7 @@ O processo de reconhecimento dessa cidadania por nascimento é feito pelo DFA (D
 Mais informações podem ser obtidas no link abaixo:  
 [http://www.inis.gov.ie/en/INIS/Pages/citizenship-foreign-parent](http://www.inis.gov.ie/en/INIS/Pages/citizenship-foreign-parent)
 
-### Cidadania Brasileira de nascidos na Irlanda
+## Cidadania Brasileira de nascidos na Irlanda
 
 A Constituição brasileira garante cidadania seguindo tanto o princípio de _jus solis_ (local de nascimento) quanto de _jus sanguinis_ (ascendência), logo filhos de brasileiro(s) nascidos no exterior são brasileiros, no entanto deve ser feito o registro do nascimento na embaixada do país de nascimento para que esse direito seja reconhecido e passaportes possam ser emitidos.
 
@@ -125,7 +124,7 @@ Mais informações podem ser obtidas no site da Embaixada Brasileira em Dublin:
 
 [http://dublin.itamaraty.gov.br/pt-br/registro\_de\_nascimento.xml](http://dublin.itamaraty.gov.br/pt-br/registro_de_nascimento.xml)
 
-### Cidadania de nascidos na Irlanda - outras nacionalidades
+## Cidadania de nascidos na Irlanda - outras nacionalidades
 
 Outros países tem restrições similares relativas ao registro de nascidos no exterior para fins de obtenção da cidadania originária daquele país.
 

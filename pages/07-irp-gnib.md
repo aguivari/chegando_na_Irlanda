@@ -1,9 +1,8 @@
-Fazendo o IRP/GNIB
------------------------------------------------------------------------------------------------------------------------
+# Fazendo o IRP/GNIB
 
-### Documentos necessários
+## Documentos necessários
 
-### Procedimento de registro, renovação, mudança de stamp
+## Procedimento de registro, renovação, mudança de stamp
 
 Renovações de IRP para residentes no County Dublin são feitos online a partir de 20/7/2020.
 
@@ -13,14 +12,13 @@ Para outros condados, o procedimento continua presencial na estação da Garda d
 
 [https://inisonline.jahs.ie/](https://inisonline.jahs.ie/)
 
-Fazendo o PPS
--------------------------------------------------------------------------------------------------------------
+# Fazendo o PPS
 
 Atenção - com o COVID, o atendimento para o PPS está sendo feito através de welfare.ie usando o MyGovID, mais informações em: [https://www.gov.ie/en/service/12e6de-get-a-personal-public-service-pps-number/](https://www.gov.ie/en/service/12e6de-get-a-personal-public-service-pps-number/)
 
 Também por causa do COVID, não estão sendo emitidos cartões PSC, pois precisam de validação presencial.
 
-### Documentos necessários
+## Documentos necessários
 
 A depender da circunstância pessoal e da razão para tirar o PPS, diferentes documentos podem ser solicitados:
 
@@ -38,7 +36,7 @@ O comprovantes de residência é normalmente um fator complicador, pois normalme
 
 O pedido do PPS deve ser justificado com a razão pela qual o PPS é necessário, por isso o atendente poderá pedir algum formulário adicional (Child benefit ou carta do GP para crianças que não estão em idade escolar, comprovação de matrícula em escola para crianças em idade escolar, Joint Assessment para o PPS do cônjuge, etc)
 
-### Agendamento
+## Agendamento
 
 O agendamento deve ser feito no site do Welfare, sendo acessado com a conta MyGovID.
 
@@ -50,7 +48,7 @@ Há dois locais de atendimento em Dublin, ambos no centro. Um bem próximo à es
 
 [https://services.mywelfare.ie/en/topics/appointments/ppsn-appointment/](https://services.mywelfare.ie/en/topics/appointments/ppsn-appointment/)
 
-### Procedimento no dia do atendimento
+## Procedimento no dia do atendimento
 
 Chegar ao centro de processamento de PPS selecionado no agendamento com alguma antecedência e ir à recepção, onde a atendente entregará os formulários em quantidade suficiente para o número de pessoas indicadas no agendamento.
 
@@ -66,7 +64,7 @@ Formulário REG1 para adultos: [https://assets.gov.ie/71515/6477c75d67ed40d2becc
 
 Formulário REG1M para menores de 18 anos: [https://assets.gov.ie/71516/89e65d7310ae4557b3537383c61c781f.pdf](https://assets.gov.ie/71516/89e65d7310ae4557b3537383c61c781f.pdf)
 
-### Recebendo Cartão PSC e Carta do PPS
+## Recebendo Cartão PSC e Carta do PPS
 
 Após aproximadamente uma semana serão recebidos no endereço indicado as cartas com o número do PPS e o Cartão PSC para os maiores de 16 anos.
 

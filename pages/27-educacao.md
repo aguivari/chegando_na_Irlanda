@@ -1,16 +1,15 @@
-Educação na Irlanda
---------------------------------------------------------------------------------------------------------------------------
+# Educação na Irlanda
 
-### Childminders
+## Childminders
 
-### ECCE
+## ECCE
 
-### Creches
+## Creches
 
-### Pré-escola
+## Pré-escola
 
-### Escola Primária
+## Escola Primária
 
-### Escola Secundária
+## Escola Secundária
 
-### Pós-secundário
+## Pós-secundário

@@ -1,7 +1,6 @@
-Impostos na Irlanda
--------------------------------------------------------------------------------------------------------------------------
+# Impostos na Irlanda
 
-### Acordos sobre bitributação de renda
+## Acordos sobre bitributação de renda
 
 Não há acordo entre Brasil e Irlanda para evitar a bitributação de renda.
 
@@ -15,7 +14,7 @@ Como não há acordo para evitar a bitributação, pode ser necessário pagar 15
 
 [https://www.revenue.ie/en/life-events-and-personal-circumstances/moving-to-or-from-ireland/moving-or-returning-to-ireland/double-taxation-agreement.aspx](https://www.revenue.ie/en/life-events-and-personal-circumstances/moving-to-or-from-ireland/moving-or-returning-to-ireland/double-taxation-agreement.aspx)
 
-### Residência Fiscal na Irlanda
+## Residência Fiscal na Irlanda
 
 Quando você começa a trabalhar na Irlanda e registra o seu job no site da Revenue, a depender da data de chegada você já será considerado residente fiscal, ou poderá optar por ser residente fiscal.
 
@@ -23,7 +22,7 @@ O residente fiscal na Irlanda tem acesso aos valores totais anuais de tax credit
 
 [https://www.revenue.ie/en/jobs-and-pensions/tax-residence/index.aspx](https://www.revenue.ie/en/jobs-and-pensions/tax-residence/index.aspx)
 
-### Sistema PAYE - Pay As You Earn
+## Sistema PAYE - Pay As You Earn
 
 Na Irlanda o imposto de renda é cobrado mensalmente com a alíquota de 20% ou 40%, dependendo do acumulado no ano.
 
@@ -49,7 +48,7 @@ Pela fórmula valor máximo com alíquota de 20% para a situação de ambos os c
 
 [https://www.revenue.ie/en/jobs-and-pensions/calculating-your-income-tax/index.aspx](https://www.revenue.ie/en/jobs-and-pensions/calculating-your-income-tax/index.aspx)
 
-### Emergency Tax
+## Emergency Tax
 
 Caso a pessoa, ao chegar na Irlanda, ou ao trocar de trabalho, demorar para fazer o seu Tax Credit Certificate ficará sujeito à "Taxa Emergencial" de 52% que seria o máximo nominal de imposto a ser pago, até providenciar o Tax Credit Certiticate.
 
@@ -61,7 +60,7 @@ Caso o funcionário informe à Empresa o seu número de PPS, fica sujeito a taxa
 
 [https://www.revenue.ie/en/jobs-and-pensions/emergency-tax/index.aspx](https://www.revenue.ie/en/jobs-and-pensions/emergency-tax/index.aspx)
 
-### PRSI (Pay Related Social Insurance)
+## PRSI (Pay Related Social Insurance)
 
 Funcionários não pagam contribuição previdenciária sobre salários de até € 352 por semana ( +/- € 18300/ano)
 
@@ -73,7 +72,7 @@ Acima de €424 de salário semanal, paga-se 4% de PRSI calculado em cima do sal
 
 [http://www.welfare.ie/en/Pages/PRSI---Pay-Related-Social-Insurance---Contributions-and-Clas.aspx](http://www.welfare.ie/en/Pages/PRSI---Pay-Related-Social-Insurance---Contributions-and-Clas.aspx)
 
-### USC (Universal Social Contribution)
+## USC (Universal Social Contribution)
 
 Há também uma Contribuição social Universal que tem uma escala de alíquotas dependente do salário (Valores de 2019):
 
@@ -111,7 +110,7 @@ Acima de €70044
 
 [https://www.revenue.ie/en/jobs-and-pensions/usc/index.aspx](https://www.revenue.ie/en/jobs-and-pensions/usc/index.aspx)
 
-### BIK - Benefit-in-Kind
+## BIK - Benefit-in-Kind
 
 Caso o empregador dê algum benefício ao funcionário que seja considerado como salário, esse valor será somado ao salário para fins de determinação da base de cálculo dos impostos.
 
@@ -121,7 +120,7 @@ Como um exemplo, caso o salário tenha um vencimento mensal de 3000, e um valor 
 
 De forma análoga, em alguns esquemas de benefícios, como os esquemas de tax saver tickets e cycle-to-work, o valor pago mensalmente pelo funcionário será deduzido do salário mensal para determinação da base de cálculo. [https://www.revenue.ie/en/jobs-and-pensions/taxation-of-employer-benefits/index.aspx](https://www.revenue.ie/en/jobs-and-pensions/taxation-of-employer-benefits/index.aspx)
 
-### Tax Credits
+## Tax Credits
 
 Todo residente fiscal na Irlanda tem à Tax Credits, que são deduções no imposto de renda devidos no ano.
 
@@ -155,7 +154,7 @@ Caso ambos trabalhem, têm direito à € 6600 de tax credits anuais, não fazen
 
 [https://www.revenue.ie/en/personal-tax-credits-reliefs-and-exemptions/tax-relief-charts/index.aspx](https://www.revenue.ie/en/personal-tax-credits-reliefs-and-exemptions/tax-relief-charts/index.aspx)
 
-### Joint Assessment
+## Joint Assessment
 
 Casais podem pedir optar pela declaração unificada dos impostos, chamado Joint Assessment. Isso permite que os cônjuges unam os seus tax credits, ou os distribuam como escolherem, ao invés de 50% para cada um.
 
@@ -174,7 +173,7 @@ Pelas regras do revenue, o ano em que o casal casou não pode ser usado para joi
   
 [https://www.revenue.ie/en/life-events-and-personal-circumstances/marital-status/marriage-and-civil-partnerships/index.aspx](https://www.revenue.ie/en/life-events-and-personal-circumstances/marital-status/marriage-and-civil-partnerships/index.aspx)
 
-### Imposto Nominal, efetivo, marginal
+## Imposto Nominal, efetivo, marginal
 
 Apesar de nominalmente o imposto de renda na irlanda ser alto (20% ou 40%), especialmente se somado ao PRSI e USC, é importante notar que de forma geral, o imposto pago durante o ano ficará abaixo desse valor.
 
@@ -214,7 +213,7 @@ Um exemplo de calculadora de salário simplificada está em: [https://docs.googl
 
 Uma Calculadora mais precisa pode ser encontrada em: [https://download.pwc.com/ie/budget-2020/income-tax-calculator.html](https://download.pwc.com/ie/budget-2020/income-tax-calculator.html)
 
-### Tax Credit Certificate
+## Tax Credit Certificate
 
 Ao cadastrar o emprego no site do Revenue, ou ao alterar algum detalhe de seu cadastro (joint assessment, mudança nos tax credits, mudança na divisão dos tax credits ou cut-off limit, por exemplo), um Tax Credit Certificate será gerado automaticamente em até 2 dias úteis, usualmente.
 
@@ -224,16 +223,16 @@ Quando o Tax credit certificate é gerado ou atualizado, a Receita envia a nova 
 
   
 Um Exemplo de Tax Credit Certificate para o ano de 2020 (clique para visão maior):  
-![TCC Sample.png](./images/TCC_Sample.png)
+![TCC Sample.png](../images/TCC_Sample.png)
 
 O tax Credit Certificate tem as seguintes seções:
 
-*   Período - Indicando as datas nas quais o certificado é valido (1/Jan/2020 a 31/Dez/2020 nesse exemplo)
-*   Lista de Tax Credits, e a divisão entre os cônjuges, caso tenham optado pelo Joint Tax Assessment
-*   Income Tax Rate Bands, indicando qual o limite de renda para mudança de Income tax de 20% para 40%
-*   USC Rate bands, indicando quais os limites de renda para mudanças de alíquota do USC
-*   Alocação dos Tax Credits e dos Rate bands para Income tax entre os cônjuges, e com a os valores anuais/mensais/semanais
-*   Alocação dos Rate bands para USC, e com a os valores anuais/mensais/semanais
+* Período - Indicando as datas nas quais o certificado é valido (1/Jan/2020 a 31/Dez/2020 nesse exemplo)
+* Lista de Tax Credits, e a divisão entre os cônjuges, caso tenham optado pelo Joint Tax Assessment
+* Income Tax Rate Bands, indicando qual o limite de renda para mudança de Income tax de 20% para 40%
+* USC Rate bands, indicando quais os limites de renda para mudanças de alíquota do USC
+* Alocação dos Tax Credits e dos Rate bands para Income tax entre os cônjuges, e com a os valores anuais/mensais/semanais
+* Alocação dos Rate bands para USC, e com a os valores anuais/mensais/semanais
 
   
 [https://www.revenue.ie/en/jobs-and-pensions/calculating-your-income-tax/what-is-a-tax-credit-certificate.aspx](https://www.revenue.ie/en/jobs-and-pensions/calculating-your-income-tax/what-is-a-tax-credit-certificate.aspx)
@@ -242,17 +241,17 @@ O tax Credit Certificate tem as seguintes seções:
 
 [https://www.revenue.ie/en/gains-gifts-and-inheritance/transfering-an-asset/index.aspx](https://www.revenue.ie/en/gains-gifts-and-inheritance/transfering-an-asset/index.aspx)
 
-### Tax on Inheritance
+## Tax on Inheritance
 
 [https://www.revenue.ie/en/gains-gifts-and-inheritance/gift-and-inheritance-tax-cat/index.aspx](https://www.revenue.ie/en/gains-gifts-and-inheritance/gift-and-inheritance-tax-cat/index.aspx)
 
-### Tax-Saver ticket scheme
+## Tax-Saver ticket scheme
 
 [https://www.taxsaver.ie/](https://www.taxsaver.ie/)  
 [https://www.citizensinformation.ie/en/travel\_and\_recreation/public\_transport/public\_transport\_commuter\_tickets\_and\_tax.html](https://www.citizensinformation.ie/en/travel_and_recreation/public_transport/public_transport_commuter_tickets_and_tax.html)  
 [https://www.revenue.ie/en/employing-people/benefit-in-kind-for-employers/travel-passes-and-air-miles/index.aspx](https://www.revenue.ie/en/employing-people/benefit-in-kind-for-employers/travel-passes-and-air-miles/index.aspx)  
 
-### Cycle to Work scheme
+## Cycle to Work scheme
 
 [https://www.citizensinformation.ie/en/money\_and\_tax/tax/income\_tax\_credits\_and\_reliefs/cycle\_to\_work\_scheme.html](https://www.citizensinformation.ie/en/money_and_tax/tax/income_tax_credits_and_reliefs/cycle_to_work_scheme.html)  
 [https://www.revenue.ie/en/jobs-and-pensions/taxation-of-employer-benefits/cycle-to-work-scheme.aspx](https://www.revenue.ie/en/jobs-and-pensions/taxation-of-employer-benefits/cycle-to-work-scheme.aspx)  

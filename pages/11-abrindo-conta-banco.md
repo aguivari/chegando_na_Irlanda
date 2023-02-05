@@ -1,8 +1,7 @@
-Abrindo conta em Banco
--------------------------------------------------------------------------------------------------------------------------------
+# Abrindo conta em Banco
 
-### Documentos necessários
+## Documentos necessários
 
-### Conta simples/conjunta
+## Conta simples/conjunta
 
-### Cartão de crédito
+## Cartão de crédito

@@ -1,13 +1,12 @@
-Emissão de Passaporte Brasileiro
-----------------------------------------------------------------------------------------------------------------------------------------------------
+# Emissão de Passaporte Brasileiro
 
-### Onde fazer
+## Onde fazer
 
 Embaixada do Brasil em Dublin Block 8, Harcourt Centre Charlotte Way Dublin 2 - D02 K580
 
-### Validade do Passaporte
+## Validade do Passaporte
 
-#### Para adultos
+### Para adultos
 
 Caso a renovação seja feira com a apresentação do passaporte atual ainda válido, o novo passaporte terá validade de 10 anos.
 
@@ -15,7 +14,7 @@ Caso a renovação seja feita sem a apresentação do passaporte atual ainda vá
 
 [http://dublin.itamaraty.gov.br/pt-br/para\_maiores\_de\_18\_anos.xml](http://dublin.itamaraty.gov.br/pt-br/para_maiores_de_18_anos.xml)  
 
-#### Para Crianças
+### Para Crianças
 
 A validade do passaporte para crianças é dependente da idade do titular:  
 
@@ -51,9 +50,9 @@ Validade
 
 [http://dublin.itamaraty.gov.br/pt-br/para\_menores\_de\_18\_anos.xml](http://dublin.itamaraty.gov.br/pt-br/para_menores_de_18_anos.xml)
 
-### Procedimento
+## Procedimento
 
 [http://dublin.itamaraty.gov.br/pt-br/para\_maiores\_de\_18\_anos.xml](http://dublin.itamaraty.gov.br/pt-br/para_maiores_de_18_anos.xml)  
 [http://dublin.itamaraty.gov.br/pt-br/para\_menores\_de\_18\_anos.xml](http://dublin.itamaraty.gov.br/pt-br/para_menores_de_18_anos.xml)  
 [http://dublin.itamaraty.gov.br/pt-br/autorizacao\_para\_emissao\_de\_passaporte\_de\_menor.xml](http://dublin.itamaraty.gov.br/pt-br/autorizacao_para_emissao_de_passaporte_de_menor.xml)  
-[http://dublin.itamaraty.gov.br/pt-br/autorizacao\_de\_viagem\_de\_menor.xml](http://dublin.itamaraty.gov.br/pt-br/autorizacao_de_viagem_de_menor.xml)  
+[http://dublin.itamaraty.gov.br/pt-br/autorizacao\_de\_viagem\_de\_menor.xml](http://dublin.itamaraty.gov.br/pt-br/autorizacao_de_viagem_de_menor.xml)

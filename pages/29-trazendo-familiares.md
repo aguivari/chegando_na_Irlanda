@@ -1,7 +1,6 @@
-Trazendo familiares para a Irlanda
---------------------------------------------------------------------------------------------------------------------------------------------------------
+# Trazendo familiares para a Irlanda
 
-### Como visitantes
+## Como visitantes
 
 Como cidadãos brasileiros não precisam de visto para entrar na Europa, basta chegar na Irlanda (ou país intermediário, caso haja imigração na conexão) e indicar que está vindo ficar hospedado na casa do familiar residente.
 
@@ -9,10 +8,10 @@ Como cidadãos brasileiros não precisam de visto para entrar na Europa, basta c
 
 De forma geral, pode ser exigido pelo oficial de imigração:
 
-*   Prova de passagem de retorno
-*   Prova de fundos compatíveis com a estadia (por alto, 500-1000 euros por mês de estadia)
-*   Prova de hospedagem (hotel, airbnb, ou carta do residente, exemplo abaixo)
-*   Prova de seguro-viagem cobrindo a duração da estadia
+* Prova de passagem de retorno
+* Prova de fundos compatíveis com a estadia (por alto, 500-1000 euros por mês de estadia)
+* Prova de hospedagem (hotel, airbnb, ou carta do residente, exemplo abaixo)
+* Prova de seguro-viagem cobrindo a duração da estadia
 
 Exemplo de Carta para apresentação na imigração:
 
@@ -55,7 +54,7 @@ Annex: Pictures of Front and Verse of IRP
 Annex: Picture of Passport’s ID Page
 Annex: Proof of address
 
-### Como residentes
+## Como residentes
 
 Stamp 0 - Pais dependentes  
 [http://www.inis.gov.ie/en/INIS/Pages/Stamp%200](http://www.inis.gov.ie/en/INIS/Pages/Stamp%200)  

@@ -1,12 +1,11 @@
-Dirigindo na Irlanda
-----------------------------------------------------------------------------------------------------------------------------
+# Dirigindo na Irlanda
 
-### Sistema de trânsito na Irlanda
+## Sistema de trânsito na Irlanda
 
 [http://www.rsa.ie/en/RSA/Learner-Drivers/Safe-Driving1/Rules-of-the-Road/](http://www.rsa.ie/en/RSA/Learner-Drivers/Safe-Driving1/Rules-of-the-Road/)  
 [http://www.rsa.ie/Documents/Learner%20Drivers/Rules\_of\_the\_road.pdf](http://www.rsa.ie/Documents/Learner%20Drivers/Rules_of_the_road.pdf)
 
-#### Punições
+## Punições
 
 Em algumas circunstâncias o motorista pode receber sansões por acumular pontos/penalidades na carteira de motorista.
 
@@ -16,22 +15,22 @@ Os penalty points ficam no prontuário do motorista por 3 anos, considerando ape
 
 O motorista pode checar a pontuação em em seu prontuário ligando para o NDLS no número 076 108 7880 ou por email info@ndls.ie, informando o número de condutor.; ou ainda ligando para a RSA no telefone 1890 41 61 41, e informando o numero de condutor.
 
-### Usando carteira de outro país
+## Usando carteira de outro país
 
 [https://www.ndls.ie/holders-of-foreign-licences.html#international-driving-licence](https://www.ndls.ie/holders-of-foreign-licences.html#international-driving-licence)
 
-### Tirando Carteira Irlandesa
+## Tirando Carteira Irlandesa
 
 O processo de habilitação na Irlanda tem alguma burocracia, apesar de bem definido, consistindo basicamente de:
 
-*   Realizar prova teórica para a categoria de habilitação pretendida
-*   Realizar um exame de vista
-*   Realizar um exame médico, se necessário
-*   Solicitar a Carteira de aprendiz (Learner Permit)
-*   Tomar aulas de direção
-*   Aguardar 6 meses entre após a emissão da Learner Permit para agendar a prova prática
-*   Realizar a prova prática
-*   Solicitar a carteira "full"
+* Realizar prova teórica para a categoria de habilitação pretendida
+* Realizar um exame de vista
+* Realizar um exame médico, se necessário
+* Solicitar a Carteira de aprendiz (Learner Permit)
+* Tomar aulas de direção
+* Aguardar 6 meses entre após a emissão da Learner Permit para agendar a prova prática
+* Realizar a prova prática
+* Solicitar a carteira "full"
 
 Os passos acima serão feitos envolvendo dois órgãos:
 
@@ -73,7 +72,7 @@ Fica dispensado o teste teórico se a adição de categorias for de carro (B) pa
 
 Para cidadãos não-EU, isso pode ser feito com o cartão IRP/GNIB, e comprovante de endereço tal como conta (luz, gas, broadband), correspondência do governo, etc.
 
-### Links e Custos aproximados
+## Links e Custos aproximados
 
 Prova teórica (45 euros para carros ou motos )  
 [https://theorytest.ie/book-your-theory-test/](https://theorytest.ie/book-your-theory-test/)
@@ -97,10 +96,10 @@ Formulário:
 
 Aulas de direção (preços estimados):  
 
-*   Pacote com 12 aulas em média 350 euros
-*   pacote com 6 aulas em média 250 euros
-*   Aulas avulsas em média 50 euros
-*   Aluguel do carro do instrutor para realizar a prova prática 100 a 120 euros
+* Pacote com 12 aulas em média 350 euros
+* Pacote com 6 aulas em média 250 euros
+* Aulas avulsas em média 50 euros
+* Aluguel do carro do instrutor para realizar a prova prática 100 a 120 euros
 
 As aulas são registradas num livreto (logbook) que é assinado e carimbado pelo instrutor. O livreto pode ser cobrado no momento de realizar a prova prática.
 
@@ -141,41 +140,41 @@ Explicação sobre os casos onde há necessidade de relatório médico:
 Comprovação de residência:  
 [https://www.ndls.ie/identity-validation.html#evidence-of-residency-entitlement](https://www.ndls.ie/identity-validation.html#evidence-of-residency-entitlement)  
 
-### Trocando a carteira de outro país pela habilitação Irlandesa
+## Trocando a carteira de outro país pela habilitação Irlandesa
 
 Caso você seja habilitado em outro país da União Europeia, ou em alguns países/regiões com as quais a Irlanda tem um acordo de troca de habilitação, pode fazer a "troca" da carteira estrangeira pela habilitação irlandesa sem realizar qualquer prova/exame/teste.
 
 Países/territórios com os quais a Irlanda tem acordo de troca da carteira de motorista, em Setembro/2019:  
 
-*   Austrália
-*   Gibraltar
-*   Guernsey
-*   Isle Of Man
-*   Japan
-*   Jersey
-*   South Africa
-*   South Korea
-*   Switzerland
-*   New Zealand
-*   Taiwan
-*   Regiões do Canadá:
-    *   Ontario
-    *   Manitoba
-    *   Newfoundland & Labrador
-    *   British Columbia
-    *   Saskatchewan
+* Austrália
+* Gibraltar
+* Guernsey
+* Isle Of Man
+* Japan
+* Jersey
+* South Africa
+* South Korea
+* Switzerland
+* New Zealand
+* Taiwan
+* Regiões do Canadá:
+    * Ontario
+    * Manitoba
+    * Newfoundland & Labrador
+    * British Columbia
+    * Saskatchewan
 
 Maiores informações em:  
 [https://www.ndls.ie/holders-of-foreign-licences.html](https://www.ndls.ie/holders-of-foreign-licences.html)  
 
-### Comprando um carro na Irlanda
+## Comprando um carro na Irlanda
 
 [https://www.citizensinformation.ie/en/consumer/cars/buying\_a\_used\_car.html](https://www.citizensinformation.ie/en/consumer/cars/buying_a_used_car.html)  
 [https://www.ccpc.ie/consumers/cars/dealer-or-private-seller/](https://www.ccpc.ie/consumers/cars/dealer-or-private-seller/)  
 
-### Comprando um carro no Reino Unido
+## Comprando um carro no Reino Unido
 
 [https://www.theaa.ie/blog/importing-a-uk-car-into-ireland/](https://www.theaa.ie/blog/importing-a-uk-car-into-ireland/)  
 [https://www.rte.ie/lifestyle/motors/2018/0512/963003-importing-a-car-from-the-uk-everything-you-need-to-know/](https://www.rte.ie/lifestyle/motors/2018/0512/963003-importing-a-car-from-the-uk-everything-you-need-to-know/)
 
-### Seguro veicular
+## Seguro veicular

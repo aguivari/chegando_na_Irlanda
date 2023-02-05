@@ -1,16 +1,15 @@
-Aposentadoria na Irlanda
-------------------------------------------------------------------------------------------------------------------------------------
+# Aposentadoria na Irlanda
 
-### Sistema público de pensões
+## Sistema público de pensões
 
-### Condições para recebimento de pensão por idade
+## Condições para recebimento de pensão por idade
 
-### Aposentadoria complementar/privada
+## Aposentadoria complementar/privada
 
-### Planos de previdência privada (PRSA)
+## Planos de previdência privada (PRSA)
 
-### Quem pode acessar PRSA
+## Quem pode acessar PRSA
 
-### Saída do regime
+## Saída do regime
 
-### Gozo da aposentadoria
+## Gozo da aposentadoria

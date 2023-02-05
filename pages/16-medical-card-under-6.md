@@ -1,9 +1,8 @@
-Pedindo Medical Card under 6
---------------------------------------------------------------------------------------------------------------------------------------------
+# Pedindo Medical Card under 6
 
-### Quem pode pedir
+## Quem pode pedir
 
-### Procedimento
+## Procedimento
 
 [https://www2.hse.ie/services/gp-visit-cards/under-6s-gp-visit-card.html](https://www2.hse.ie/services/gp-visit-cards/under-6s-gp-visit-card.html)  
 [https://www.sspcrs.ie/portal/free-gp-care-web/pub](https://www.sspcrs.ie/portal/free-gp-care-web/pub)  
