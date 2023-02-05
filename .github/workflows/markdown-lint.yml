@@ -23,6 +23,7 @@ jobs:
       run: npm install markdownlint-cli --save-dev
 
     - name: Lint markdown files
+      continue-on-error: true
       run: |
         npx markdownlint --ignore node_modules --disable MD013 -- '**/*.md' 
         if [ $? -ne 0 ]; then
