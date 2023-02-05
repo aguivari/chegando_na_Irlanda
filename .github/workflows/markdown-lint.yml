@@ -33,8 +33,8 @@ jobs:
       uses: actions/github-script@v6.4.0
       with:
         script: |
-          const lintErrors = steps.lint.outputs.error || '';
-          const lintResultsLink = steps.results.outputs.artifact_url;
+          const lintErrors = context.steps.lint.outputs.error || '';
+          const lintResultsLink = context.steps.results.outputs.artifact_url;
           const pullRequestNumber = github.event.number;
 
           const commentBody = `
