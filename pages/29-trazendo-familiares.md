@@ -15,6 +15,7 @@ De forma geral, pode ser exigido pelo oficial de imigração:
 
 Exemplo de Carta para apresentação na imigração:
 
+```
 <Nome Completo>
 <Address>
 <Town>
@@ -33,24 +34,25 @@ I have enclosed evidence of my residence in the form of  my Irish Residency Perm
  
 I also confirm that my <parentesco> <Nome Completo> is aware of her obligations as a visitor, including:
 
-\* Abiding to the Laws and Regulations of the State,
-\* Having valid travel insurance for the duration of her visit,
-\* Respecting the proposed length of <her/his/their> stay.
+* Abiding to the Laws and Regulations of the State,
+* Having valid travel insurance for the duration of her visit,
+* Respecting the proposed length of <her/his/their> stay.
  
 Enclosed are the following supporting documents:
  
-\* A copy of my Passport ID Page;
-\* A copy of my IRP Card;
-\* A copy of my proof of address.
+* A copy of my Passport ID Page;
+* A copy of my IRP Card;
+* A copy of my proof of address.
  
 If you require any additional information, please do not hesitate to get in contact with me on the phone number <Seu telefone>.
 
 Yours faithfully,
  
 <Nome>
-Annex: Pictures of Front and Verse of IRP 
-Annex: Picture of Passport’s ID Page
-Annex: Proof of address
+Attachment: Pictures of Front and Verse of IRP 
+Attachment: Picture of Passport’s ID Page
+Attachment: Proof of address
+```
 
 ## Como residentes
 

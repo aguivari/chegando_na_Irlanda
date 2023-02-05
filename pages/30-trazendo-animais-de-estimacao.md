@@ -1,6 +1,6 @@
 # Trazendo animais de estimação
 
-*Contribuído por Leandro Azeredo*
+**Contribuído por Leandro Azeredo**
 
 Levar animais de estimação será um processo trabalhoso e metódico, porém, nenhum bicho de sete-cabeças. Estes procedimentos podem mudar sem aviso por parte do Governo Irlandês. Além de reler o descrito neste FAQ, obrigatoriamente abra os sites nos links “Procedimentos” deste capítulo, e confirme a informação.
 
@@ -22,10 +22,9 @@ Seguem sites para averiguação de procedimentos:
 
 [https://www.agriculture.gov.ie/pets/bringingyourpetcatdogorferretintoireland/](https://www.agriculture.gov.ie/pets/bringingyourpetcatdogorferretintoireland/)
 
-  
 TLDR: Definir como vai enviar o animal > Microchip > Vacinas > Sorologia > Quarentena > Reserva do Voo garantindo a quantidade de vagas para os pets, se vão na cabine tem dimensões e peso e caixas específicas, se forem no portão tem dimensões e pesos e caixas específicas também, além da água e comida à parte que deve ser providenciada com antecedência > Antes do embarque pegar toda documentação e pedir o CVI e levar o CVI também.
 
-## Anterior ao Vôo: Preparando o animal para viajar.
+## Anterior ao Vôo: Preparando o animal para viajar
 
 Se o seu pet não têm microchip nem vacina contra raiva. você precisa de pelo menos 5 meses e:
 
@@ -66,7 +65,7 @@ Cada avião pode levar até 2 pets e cada pessoa só pode levar 1 pet consigo.
 
 No nosso caso vamos levar nossos dois gatos e eles vão acondicionados em nossos pés, no espaço à frente de nossas poltronas, isso elimina uma bagagem de mão a mais que você poderia levar, lhe dando direito somente à bagagem que fica no compartimento superior dentro da cabine.
 
-## Chegar em dia de semana, evitar feriados e fins de semana.
+## Chegar em dia de semana, evitar feriados e fins de semana
 
 Prefira comprar o ticket para uma viagem “Origem > Destino” só, mesmo que com conexão. Passagens separadas podem gerar custos e transtornos adicionais.
 
@@ -76,7 +75,7 @@ Ligamos ao 0800 da TAP para atendimento e confirmamos com o código de ambos vô
 
 Assim que confirmado compramos as passagens e conseguimos acesso ao portal da TAP, dentro do portal têm a opção de selecionar assentos (muito importante, como fomos em casal pegamos duas poltronas conforto que não tivessem outra pessoa ao lado, para evitar transtornos a qualquer envolvido. Outra opção de extras que você precisa para sua passagem, é a “Adicionar pets” ao custo de 150 Euros cada e limitado a um pet por pessoa
 
-## Caixa para transporte de PET:
+## Caixa para transporte de PET
 
 Verifique no site de sua companhia as dimensões e especificações aceitas para o transporte dos pets. Muitas lojas vendem caixas já específicas aceitas pelas companhias, no Mercadolivre mesmo você encontra “caixa gatos lufthansa” ou “caixa gatos padrão TAP”.
 
