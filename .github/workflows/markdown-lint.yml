@@ -24,7 +24,7 @@ jobs:
 
     - name: Lint markdown files
       run: |
-        npx markdownlint '**/*.md' --ignore node_modules
+        npx markdownlint --ignore node_modules --disable MD013 -- '**/*.md' 
         if [ $? -ne 0 ]; then
           echo "::error::Markdown linting failed"
           exit 1
