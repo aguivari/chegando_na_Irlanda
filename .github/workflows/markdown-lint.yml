@@ -33,7 +33,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Upload lint results
-      uses: actions/upload-artifact@v2.3.2
+      uses: actions/upload-artifact@v3.1.2
       with:
         name: markdownlint_result.json
         path: markdownlint_result.json
