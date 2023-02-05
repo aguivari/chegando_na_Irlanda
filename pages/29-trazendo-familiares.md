@@ -15,7 +15,7 @@ De forma geral, pode ser exigido pelo oficial de imigração:
 
 Exemplo de Carta para apresentação na imigração:
 
-```
+```text
 <Nome Completo>
 <Address>
 <Town>
