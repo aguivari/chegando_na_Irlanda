@@ -4,6 +4,4 @@
   uses: articulate/actions-markdownlint@v1.1.0
   with:
     # markdownlint config file
-    config: ".github/workflows/markdown-config.yaml "
-    # Markdown files to scan
-    files: **/*.{md,markdown}
+    config: ".github/workflows/markdown-config.yaml"
