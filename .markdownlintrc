@@ -1,0 +1,10 @@
+{
+  // Enable all markdownlint rules
+  "default": true,
+
+  // Disable line length check
+  "MD013": false,
+
+  // Disable files needing to end with single newline
+  "MD047": false,
+}
