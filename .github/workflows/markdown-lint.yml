@@ -6,44 +6,23 @@ on:
   pull_request:
     branches: [ "**" ]
 
+permissions:
+  contents: read
+  pull-requests: write
+    
 jobs:
-  lint:
+  markdownlint-cli:
+    name: markdownlint-cli
     runs-on: ubuntu-latest
-    permissions: 
-      pull-requests: write 
-
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3.3.0
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3.6.0
+    - name: Check out code
+      uses: actions/checkout@v2
       with:
-        node-version: 16
-
-    - name: Install dependencies
-      run: npm install markdownlint-cli --save-dev
-
-    - name: Lint markdown files
-      id: lint
-      continue-on-error: true
-      run: |
-        npx markdownlint --ignore node_modules --disable MD013 -- '**/*.md' > markdownlint_result.txt || true
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Upload lint results
-      uses: actions/upload-artifact@v3.1.2
+        submodules: recursive
+    - name: markdownlint-github-pr-review
+      uses: reviewdog/action-markdownlint@v0
       with:
-        name: markdownlint_result.json
-        path: markdownlint_result.json
-        
-    - name: Comment on pull request
-      if: github.event_name == 'pull_request'
-      uses: thollander/actions-comment-pull-request@v2.3.1
-      with:
-        filePath: markdownlint_result.json
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
-        comment_tag: Markdown Lint Results
-        mode: 'failure'
-
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        filter_mode: nofilter
+        reporter: github-check
+        markdownlint_flags: --disable MD013 '**/*.md'
