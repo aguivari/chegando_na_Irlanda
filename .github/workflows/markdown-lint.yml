@@ -24,3 +24,7 @@ jobs:
         uses: github/super-linter@slim@v4.10.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LOG_LEVEL: WARN
+          MARKDOWN_CONFIG_FILE: .markdownlintrc
+          VALIDATE_MARKDOWN: true
+          
