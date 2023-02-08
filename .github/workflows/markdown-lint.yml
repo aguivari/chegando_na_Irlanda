@@ -23,6 +23,4 @@ jobs:
       uses: reviewdog/action-markdownlint@v0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        filter_mode: nofilter
-        reporter: github-check
-        markdownlint_flags: '**/*.md'
+        reporter: github-pr-review
