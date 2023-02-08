@@ -2,25 +2,20 @@ name: Lint Markdown Files
 
 on:
   push:
-    branches: [ "**" ]
+    branches:
+      - main
   pull_request:
-    branches: [ "**" ]
+    branches:
+      - main
 
-permissions:
-  contents: read
-  pull-requests: write
-    
 jobs:
-  markdownlint-cli:
-    name: markdownlint-cli
+  linting:
+    name: "Markdown linting"
     runs-on: ubuntu-latest
     steps:
-    - name: Check out code
-      uses: actions/checkout@v2
-      with:
-        submodules: recursive
-    - name: markdownlint-github-pr-review
-      uses: reviewdog/action-markdownlint@v0
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        reporter: github-pr-review
+      - uses: actions/checkout@v2
+        name: Check out the code
+      - name: Lint Code Base
+        uses: docker://avtodev/markdown-lint:v1
+        with:
+          args: "**/*.md"
