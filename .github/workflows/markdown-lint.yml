@@ -25,5 +25,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LOG_LEVEL: WARN
+          MARKDOWN_CONFIG_FILE: '.markdown-lint.yml'
           VALIDATE_MARKDOWN: true
           
