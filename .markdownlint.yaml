@@ -3,4 +3,4 @@ default: true
 
 
 # Disable line length check
-MD013: false
+MD013: true
