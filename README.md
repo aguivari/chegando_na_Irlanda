@@ -13,7 +13,7 @@ Se você pretende levar pets para a Irlanda, o prazo é apertado e requer toda u
 
 Uma versão curta e grossa desse FAQ seria:
 
-1.     Entenda as semelhanças e as diferenças entre Brasil e Irlanda
+1.      Entenda as semelhanças e as diferenças entre Brasil e Irlanda
 2.      Verifique o que precisa ser feito ainda antes de sair do Brasil
 3.      Verifique o que precisa ser feito logo após chegar na Irlanda
 4.     Verifique o que pode ser feito com calma depois da chegada
