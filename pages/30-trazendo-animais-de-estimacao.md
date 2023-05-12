@@ -1,5 +1,7 @@
 # Trazendo animais de estimação
 
+# **ATENÇÃO: Conteúdo escrito originalmente em 2019. Pode estar desatualizado**
+
 Contribuído por Leandro Azeredo
 
 Levar animais de estimação será um processo trabalhoso e metódico, porém, nenhum bicho de sete-cabeças. Estes procedimentos podem mudar sem aviso por parte do Governo Irlandês. Além de reler o descrito neste FAQ, obrigatoriamente abra os sites nos links “Procedimentos” deste capítulo, e confirme a informação.
@@ -16,7 +18,7 @@ Seguem sites para averiguação de procedimentos:
 
 ## Procedimentos
 
-![Pet-procedures.jpeg](/images/Pet-procedures.jpeg)
+![Pet-procedures.jpeg](../images/Pet-procedures.jpeg)
 
 [https://www.citizensinformation.ie/en/moving\_country/moving\_to\_ireland/coming\_to\_live\_in\_ireland/bringing\_pets\_to\_ireland.html](https://www.citizensinformation.ie/en/moving_country/moving_to_ireland/coming_to_live_in_ireland/bringing_pets_to_ireland.html)
 
