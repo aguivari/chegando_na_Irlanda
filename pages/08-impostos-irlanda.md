@@ -76,39 +76,18 @@ Acima de €424 de salário semanal, paga-se 4% de PRSI calculado em cima do sal
 
 ## USC (Universal Social Contribution)
 
-Há também uma Contribuição social Universal que tem uma escala de alíquotas dependente do salário (Valores de 2019):
+Há também uma Contribuição social Universal que tem uma escala de alíquotas.
 
-Alíquotas USC
+Para salários até 13000 euros anuais, há isenção de USC. Salário acima de 13k/ano seguem a tabela abaixo
 
-Descriçao
+Alíquotas USC (Valores de 2023):
 
-Faixa de Salário
-
-Alíquota
-
-Primeiros €12,012
-
-€0 - €12,012
-
-0.5%
-
-Próximos €7,862
-
-€12012- €19874
-
-2.0%
-
-Próximos €50,170
-
-€19874- €70044
-
-4.5%
-
-Acima de €70044
-
-€70044-
-
-8.0%
+| Descriçao |  Faixa de Salário      | Alíquota |
+| ----------- | ----------- | ----------- |
+| Primeiros €12,012 | €0 - €12,012 | 0.5% |
+| Próximos €10,908 | €12012 - €22920 | 2.0% |
+| Próximos €47,124 | €22920 - €70044 | 4.5% |
+| Acima de €70044 | €70044 - | 8.0% |
 
 [https://www.revenue.ie/en/jobs-and-pensions/usc/index.aspx](https://www.revenue.ie/en/jobs-and-pensions/usc/index.aspx)
 
