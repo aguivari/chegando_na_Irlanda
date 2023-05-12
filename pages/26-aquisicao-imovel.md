@@ -1,6 +1,6 @@
 # Aquisição de imóveis na Irlanda
 
-# **ATENÇÃO: Conteúdo escrito originalmente entre 2019 e 2021. Várias seções estão estar desatualizadas**
+# **ATENÇÃO: Conteúdo escrito originalmente entre 2019 e 2021. Várias seções estão desatualizadas**
 
 [https://www.ccpc.ie/consumers/housing/buying-home-step-by-step-guide/](https://www.ccpc.ie/consumers/housing/buying-home-step-by-step-guide/)
 

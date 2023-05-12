@@ -1,6 +1,6 @@
 # Pedindo European Health Insurance Card
 
-# **ATENÇÃO: Conteúdo escrito originalmente entre 2019 e 2021. Várias seções estão estar desatualizadas**
+# **ATENÇÃO: Conteúdo escrito originalmente entre 2019 e 2021. Várias seções estão desatualizadas**
 
 ## Quem pode pedir
 
