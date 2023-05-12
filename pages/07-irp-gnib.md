@@ -1,5 +1,7 @@
 # Fazendo o IRP/GNIB
 
+# **ATENÇÃO: Conteúdo escrito originalmente entre 2019 e 2021. Várias seções estão estar desatualizadas**
+
 ## Documentos necessários (IRP/GNIB)
 
 ## Procedimento de registro, renovação, mudança de stamp

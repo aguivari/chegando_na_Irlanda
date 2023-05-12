@@ -1,5 +1,7 @@
 # Impostos na Irlanda
 
+# **ATENÇÃO: Conteúdo escrito originalmente entre 2019 e 2021. Várias seções estão estar desatualizadas**
+
 ## Acordos sobre bitributação de renda
 
 Não há acordo entre Brasil e Irlanda para evitar a bitributação de renda.

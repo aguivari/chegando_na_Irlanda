@@ -1,5 +1,7 @@
 # Tipos de Work Permit
 
+# **ATENÇÃO: Conteúdo escrito originalmente entre 2019 e 2021. Várias seções estão estar desatualizadas**
+
 ## Quem precisa de Work Permit
 
 Cidadãos de países de fora da União Européia, Área Econômica Européia e Suíça, que não possuam Autorização de residência tipo Stamp4 precisam de autorização de trabalho na Irlanda.

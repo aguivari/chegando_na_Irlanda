@@ -1,5 +1,7 @@
 # Emissão de Passaporte Brasileiro
 
+# **ATENÇÃO: Conteúdo escrito originalmente entre 2019 e 2021. Várias seções estão estar desatualizadas**
+
 ## Onde fazer
 
 Embaixada do Brasil em Dublin Block 8, Harcourt Centre Charlotte Way Dublin 2 - D02 K580

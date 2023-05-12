@@ -1,5 +1,7 @@
 # Deslocamento/Transporte em Dublin
 
+# **ATENÇÃO: Conteúdo escrito originalmente entre 2019 e 2021. Várias seções estão estar desatualizadas**
+
 ## Caminhada
 
 A não ser que você já chegue em Dublin com um carro, provavelmente vai caminhar bastante. Dublin é uma cidade relativamente pequena, e muita coisa é acessível à pé, assim como o ponto de ônibus ou a estação mais próxima de Luas ou DART. A cidade também é basicamente plana, o que somado a baixa temperatura, permite caminhar sem se tornar uma poça ambulante de suor.

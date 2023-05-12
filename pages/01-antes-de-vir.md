@@ -1,5 +1,7 @@
 # Antes de Vir
 
+# **ATENÇÃO: Conteúdo escrito originalmente entre 2019 e 2021. Várias seções estão estar desatualizadas**
+
 Antes de partir do Brasil para a Irlanda, diversas atividades são importantes para garantir chegada e estadia sem stress. Algumas delas dizem respeito à situação fiscal e legal no Brasil, enquanto outras dizem respeito à chegada e primeiros passos na Irlanda.
 
 ## Entender diferenças entre Brasil e Irlanda

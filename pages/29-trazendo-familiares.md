@@ -1,5 +1,7 @@
 # Trazendo familiares para a Irlanda
 
+# **ATENÇÃO: Conteúdo escrito originalmente entre 2019 e 2021. Várias seções estão estar desatualizadas**
+
 ## Como visitantes
 
 Como cidadãos brasileiros não precisam de visto para entrar na Europa, basta chegar na Irlanda (ou país intermediário, caso haja imigração na conexão) e indicar que está vindo ficar hospedado na casa do familiar residente.

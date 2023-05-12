@@ -1,5 +1,7 @@
 # Dirigindo na Irlanda
 
+# **ATENÇÃO: Conteúdo escrito originalmente entre 2019 e 2021. Várias seções estão estar desatualizadas**
+
 ## Sistema de trânsito na Irlanda
 
 [http://www.rsa.ie/en/RSA/Learner-Drivers/Safe-Driving1/Rules-of-the-Road/](http://www.rsa.ie/en/RSA/Learner-Drivers/Safe-Driving1/Rules-of-the-Road/)  

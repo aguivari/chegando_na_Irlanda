@@ -1,5 +1,7 @@
 # Visto de entrada na Irlanda
 
+# **ATENÇÃO: Conteúdo escrito originalmente entre 2019 e 2021. Várias seções estão estar desatualizadas**
+
 ## Quem precisa de Visto
 
 De forma geral, todos os países controlam a entrada de cidadãos de outros países em seu território.

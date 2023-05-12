@@ -1,5 +1,7 @@
 # Fazendo o Tax Credit Certificate
 
+# **ATENÇÃO: Conteúdo escrito originalmente entre 2019 e 2021. Várias seções estão estar desatualizadas**
+
 ## Site ROS (revenue Online services)
 
 No site do Revenue há um link para acessar seu registro fiscal. Nele você pode registrar seu emprego, requerer seus tax credits e gerar seu tax credit certificate, além de também permitir que você faça a declaração de imposto de renda, entre outras funções. Há duas formas de acesso, usando o login unificado MyGovID, ou criando uma conta (myAccount) específica para o site. Para fins deste guia, ambas as formas de acesso atendem, mas alguns serviços da receita são restritos ao uso da MyAccount.

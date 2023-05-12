@@ -1,5 +1,7 @@
 # Chegando na Irlanda
 
+# **ATENÇÃO: Conteúdo escrito originalmente entre 2019 e 2021. Várias seções estão estar desatualizadas**
+
 ## Passando pela Imigração
 
 De forma geral, a imigração é tranquila, bastando estar portando os seguintes documentos:

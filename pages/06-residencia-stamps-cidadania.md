@@ -1,5 +1,7 @@
 # Residência na Irlanda/Stamps/Cidadania
 
+# **ATENÇÃO: Conteúdo escrito originalmente entre 2019 e 2021. Várias seções estão estar desatualizadas**
+
 ## Quem precisa de registro?
 
 Todo cidadão de país de fora da EU/EEA/Suíça a partir de 16 anos de idade deve se registrar na Irlanda para residir além de 90 dias.
