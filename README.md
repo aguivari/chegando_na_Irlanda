@@ -2,16 +2,14 @@
 Chegando na Irlanda
 ========================================================================================================================
 
-# **ATENÇÃO: Conteúdo escrito originalmente entre 2019 e 2021. Várias seções estão desatualizadas**
-
-Por [Adilson Ribeiro](https://www.linkedin.com/in/adilsongvribeiro)
+# **Esforço para atualizar o texto com informações de 2023**
 
 Introdução
 ------------------------------------------------------------------------------------------------------
 
 Este texto pretende auxiliar aqueles que estão vindo para a Irlanda a trabalho, com explicações básicas sobre diversos aspectos da mudança de país, como chegar, se instalar, burocracias obrigatórias e opcionais no país, etc.
 
-Se você pretende levar pets para a Irlanda, o prazo é apertado e requer toda uma documentação específica, há um [tópico](./pages/30-trazendo-animais-de-estimacao.md) dedicado à isso contribuído por Leandro Azeredo.
+Se você pretende levar pets para a Irlanda, o prazo é apertado e requer toda uma documentação específica, há um [tópico](./pages/30-trazendo-animais-de-estimacao.md) escrito em 2019 dedicado à isso contribuído por Leandro Azeredo.
 
 Uma versão curta e grossa desse FAQ seria:
 
@@ -24,10 +22,10 @@ Este texto é um "Work in Progress" - estará em construção permanentemente, j
 
 Ressalvas:
 
-* Não trate nenhuma parte deste texto como verdade, sempre consulte fontes oficiais para ter a informação mais correta/atualizada;
-* Na medida do possível todas as seções terão links para sites oficiais tratando de cada assunto abordado;
-* Será tentado ser o mais preciso e correto quanto possível, no entanto erros ou imprecisões estarão presentes eventualmente;
-* Não use este conteúdo como conselho sobre imigração ou sobre práticas fiscais.
+* **Não trate nenhuma parte deste texto como verdade, sempre consulte fontes oficiais para ter a informação mais correta/atualizada**;
+* **Na medida do possível todas as seções terão links para sites oficiais tratando de cada assunto abordado**;
+* **Será tentado ser o mais preciso e correto quanto possível, no entanto erros ou imprecisões estarão presentes eventualmente**;
+* **Não use este conteúdo como conselho sobre imigração ou sobre práticas fiscais**.
 
 Caso tenha alguma sugestão ou crítica, envie e-mail para [chegandonairlanda@gmail.com](mailto:chegandonairlanda@gmail.com)
 

@@ -36,6 +36,11 @@ Da mesma forma que as procurações, é interessante dispor de um certificado di
 
 Certificados A1 valem por 1 ano e são eletrônicos (arquivos PFX/PEM), enquanto certificados A3 valem por 3 anos e são armazenados em tokens criptográficos.
 
+Com as mudanças recentes pelo governo para simplificar autenticação e assinatura eletrônica de documentos, é possível usr o serviço GOV.BR para realizar assinaturas digitais em documentos.
+
+Para mais informaçoes visitar o [GOV.BR](https://www.gov.br/pt-br/servicos/assinatura-eletronica) no link https://www.gov.br/pt-br/servicos/assinatura-eletronica
+
+
 ## Documentação para seguro-saúde na Irlanda
 
 Na Irlanda há um aumento no custo de seguros-saúde de 2% por ano de idade a partir de 34 anos caso a pessoa não tenha seguro-saúde de forma contínua desde maio de 2015. Para fugir desse custo extra, deve ser demonstrado que a pessoa não morava na Irlanda em Maio de 2015.
