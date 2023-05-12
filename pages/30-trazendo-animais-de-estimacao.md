@@ -16,7 +16,7 @@ Seguem sites para averiguação de procedimentos:
 
 ## Procedimentos
 
-![Pet-procedures.jpeg](./images/Pet-procedures.jpeg)
+![Pet-procedures.jpeg](/images/Pet-procedures.jpeg)
 
 [https://www.citizensinformation.ie/en/moving\_country/moving\_to\_ireland/coming\_to\_live\_in\_ireland/bringing\_pets\_to\_ireland.html](https://www.citizensinformation.ie/en/moving_country/moving_to_ireland/coming_to_live_in_ireland/bringing_pets_to_ireland.html)
 
