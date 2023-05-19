@@ -2,7 +2,7 @@
 Chegando na Irlanda
 ========================================================================================================================
 
-# **Esforço para atualizar o texto com informações de 2023**
+# **Esforço em andamento para atualizar o texto com informações de 2023**
 
 Introdução
 ------------------------------------------------------------------------------------------------------
