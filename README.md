@@ -11,7 +11,7 @@ Introdução
 
 Este texto pretende auxiliar aqueles que estão vindo para a Irlanda a trabalho, com explicações básicas sobre diversos aspectos da mudança de país, como chegar, se instalar, burocracias obrigatórias e opcionais no país, etc.
 
-Se você pretende levar pets para a Irlanda, o prazo é apertado e requer toda uma documentação específica, há um [tópico](./pages/30-trazendo-animais-de-estimacao.md) dedicado à isso contribuído por Leandro Azeredo sobre a experiência em 2019, e um blog [post](https://gitlab.com/nwildner/nwildner.gitlab.io/-/blob/master/content/posts/2023-05-19-trazendo-cao-pra-irlanda.md) de Nicolas Wildner com a experiência mais recente dele em 2023.
+Se você pretende levar pets para a Irlanda, o prazo é apertado e requer toda uma documentação específica, há um [tópico](./pages/30-trazendo-animais-de-estimacao.md) dedicado à isso contribuído por Leandro Azeredo sobre a experiência em 2019, e um blog [post](https://nwildner.com/posts/2023-05-19-trazendo-cao-pra-irlanda/) de Nicolas Wildner com a experiência mais recente dele em 2023.
 
 Uma versão curta e grossa desse FAQ seria:
 
